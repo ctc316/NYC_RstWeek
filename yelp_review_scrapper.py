@@ -113,7 +113,7 @@ def run_scrapper(start, end):
             start += PER_PAGE
 
             print("results len:", results.shape[0], "; hasNext:", hasNextPage)
-            time.sleep(0.5)
+            time.sleep(0.1)
 
         filename = "data/reviews/{:03d}_{}.csv".format(i, yelp_rsts.loc[i]['alias'].replace("-", "_"))
         results.to_csv(filename, index=False)
