@@ -48,8 +48,8 @@ def get_proxies():
     proxies = set()
     for row in rows:
         cols = row.find_all('td')
-        if cols[4].get_text() != 'elite proxy':
-            continue
+        # if cols[4].get_text() != 'elite proxy':
+        #     continue
         proxies.add(cols[0].get_text() + ":" + cols[1].get_text())
 
     return proxies
@@ -82,7 +82,7 @@ def run_scrapper(start, end):
             for proxy in proxies:
                 try:
                     # req = requests.get(page_url, timeout=30)
-                    req = requests.get(page_url, proxies={"http": proxy, "https": proxy}, timeout=30)
+                    req = requests.get(page_url, proxies={"http": proxy, "https": proxy}, timeout=10)
                     if req.status_code >= 300:
                         raise Exception(req.status_code)
                     else:
