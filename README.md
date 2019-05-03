@@ -1,3 +1,1 @@
-cd Desktop/Final\ Project/; 
-source venv/bin/activate;
-python yelp_review_scrapper.py 8 3
+cd Desktop/NYC_Rst_Week;source venv/bin/activate;python yelp_review_scrapper.py 0 1
