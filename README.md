@@ -1,1 +1,11 @@
-cd Desktop/NYC_Rst_Week;source venv/bin/activate;python yelp_review_scrapper.py 0 1
+### Environment
+- Python 3
+
+
+### HOW TO (virtual env)
+- virtualenv -p python3 venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+
+- pip install ipykernel
+- python -m ipykernel install --user --name=nyc_rst_week
