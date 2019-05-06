@@ -1,346 +1,346 @@
-,alias,cur_rating,review_count,avg_rating,rating_1s,rating_2s,rating_3s,rating_4s,rating_5s,rw_review_count,rw_avg_rating,rw_rating_1s,rw_rating_2s,rw_rating_3s,rw_rating_4s,rw_rating_5s,price_range,restaurant_main_type
-0,smoke-jazz-and-supper-club-new-york-2,4.0,350,3.78,30,32,44,122,122,5,2.2,1,2,2,0,0,$31 to $50,Contemporary American
-1,tavern-on-the-green-new-york-7,3.5,1238,3.38,208,163,192,304,371,29,3.86,1,5,4,6,13,$31 to $50,American
-2,abc-kitchen-new-york,4.0,2855,4.09,101,169,359,969,1257,20,3.8,3,2,2,2,11,$31 to $50,Contemporary American
-3,catch-new-york-new-york,3.5,36,3.44,9,2,4,6,15,1,1.0,1,0,0,0,0,$31 to $50,Seafood
-4,becco-new-york-4,3.5,2674,3.73,211,261,462,857,883,16,4.12,0,3,1,3,9,$30 and under,Italian
-5,estiatorio-milos-new-york,4.0,827,3.99,42,62,106,271,346,12,4.42,0,0,2,3,7,$50 and over,Seafood
-6,tao-uptown-new-york,3.5,2449,3.55,219,267,521,822,620,12,3.67,2,0,2,4,4,$31 to $50,Asian
-7,red-rooster-harlem-new-york-3,3.5,2939,3.53,273,420,573,828,845,36,3.78,3,6,4,6,17,$31 to $50,Other
-8,del-friscos-double-eagle-steakhouse-new-york,4.5,2751,4.29,89,127,276,657,1602,44,4.41,1,1,6,7,29,$50 and over,Steakhouse
-9,fig-and-olive-fifth-ave-new-york-4,3.5,1098,3.57,89,124,203,432,250,13,3.77,0,2,4,2,5,$31 to $50,Mediterranean
-10,rosa-mexicano-new-york-6,3.5,1111,3.59,90,122,229,382,288,14,4.07,0,1,4,2,7,$31 to $50,Mexican
-11,abc-cocina-new-york,4.0,839,3.83,38,80,146,295,280,10,4.0,0,2,1,2,5,$30 and under,Other
-12,gallaghers-steakhouse-new-york,4.0,970,4.13,46,66,114,236,508,20,3.55,3,4,2,1,10,$50 and over,Steakhouse
-13,boulud-sud-new-york,4.0,682,3.9,30,54,108,254,236,7,4.57,0,0,0,3,4,$50 and over,Mediterranean
-14,nougatine-at-jean-georges-new-york-3,4.0,1061,3.86,71,88,163,332,407,9,3.44,2,0,2,2,3,$31 to $50,French
-15,sarabeths-new-york-10,3.5,1688,3.4,174,247,377,504,386,18,3.39,2,3,4,4,5,$30 and under,American
-16,tao-downtown-new-york-2,3.5,1250,3.61,158,129,172,372,419,24,2.96,8,2,3,5,6,$50 and over,Asian
-17,ilili-new-york-2,4.0,2251,4.03,70,154,293,860,874,14,3.79,0,3,3,2,6,$31 to $50,Other
-18,scarpetta-new-york,4.0,1784,4.18,58,83,195,594,854,18,4.17,1,0,2,7,8,$31 to $50,Italian
-19,atlantic-grill-new-york-3,3.5,546,3.74,33,50,95,218,150,1,4.0,0,0,0,1,0,$31 to $50,Seafood
-20,empellón-new-york-3,4.0,299,3.89,19,28,39,93,120,11,3.91,0,2,1,4,4,$31 to $50,Mexican
-21,ocean-prime-new-york,4.5,481,4.42,13,22,33,96,317,24,4.42,0,2,2,4,16,$31 to $50,Seafood
-22,sarabeths-west-new-york,3.5,868,3.43,80,114,188,327,159,6,3.67,1,1,0,1,3,$30 and under,American
-24,toloache-50-new-york,4.0,1761,3.93,77,125,272,656,631,6,4.17,1,0,0,1,4,$30 and under,Mexican
-25,blue-fin-new-york,3.5,944,3.54,70,104,214,359,197,7,3.86,0,1,1,3,2,$31 to $50,Seafood
-26,bar-boulud-new-york-2,3.5,816,3.43,62,113,202,287,152,6,3.67,0,1,1,3,1,$30 and under,French
-27,hakkasan-new-york,3.5,846,3.74,60,84,162,247,293,8,4.0,0,1,2,1,4,$50 and over,Chinese
-28,lincoln-ristorante-new-york,4.0,541,3.81,54,44,65,165,213,6,4.33,0,0,1,2,3,$31 to $50,Italian
-29,cafe-boulud-new-york-4,4.0,670,4.08,38,39,76,198,319,12,3.92,2,1,0,2,7,$50 and over,French
-30,the-view-restaurant-and-lounge-new-york,3.0,974,3.09,159,171,243,230,171,10,3.3,2,1,2,2,3,$31 to $50,Contemporary American
-31,park-avenue-autumn-winter-spring-summer-new-york-3,4.0,844,4.04,40,64,105,250,385,36,4.06,1,3,5,11,16,$31 to $50,American
-32,zuma-new-york-2,3.5,564,3.53,90,60,80,127,207,8,4.12,0,1,1,2,4,$50 and over,Japanese & Koren
-33,la-pecora-bianca-new-york,4.0,460,3.75,30,59,64,149,158,8,4.38,0,0,1,3,4,$30 and under,Italian
-34,la-pecora-bianca-new-york,4.0,460,3.75,30,59,64,149,158,8,4.38,0,0,1,3,4,$30 and under,Italian
-35,calle-ocho-new-york,4.0,2458,3.94,99,165,374,969,851,19,3.58,1,3,4,6,5,$31 to $50,Spanish
-36,sarabeths-new-york-5,3.0,578,3.08,86,119,128,154,91,6,3.0,1,1,1,3,0,$30 and under,American
-37,lavo-new-york-4,3.5,965,3.25,197,96,168,274,230,8,2.38,3,1,3,0,1,$50 and over,Italian
-38,la-masseria-new-york-3,4.0,549,4.07,32,32,59,170,256,6,4.33,0,1,0,1,4,$31 to $50,Italian
-39,lido-new-york,4.0,903,4.08,33,54,106,324,386,6,4.0,0,1,1,1,3,$30 and under,Italian
-40,ristorante-morini-new-york,4.0,262,3.87,26,20,32,67,117,2,3.5,0,0,1,1,0,$31 to $50,Italian
-41,morimoto-new-york,4.0,2921,4.06,104,188,433,914,1282,38,3.79,3,2,9,10,14,$50 and over,Japanese & Koren
-42,aureole-new-york,4.0,860,3.81,51,70,152,306,281,19,3.95,1,2,1,8,7,$31 to $50,American
-43,fogo-de-chao-brazilian-steakhouse-new-york-4,4.0,1041,3.98,63,62,142,343,431,26,4.23,0,2,3,8,13,$50 and over,Steakhouse
-44,limani-new-york,4.0,385,3.77,34,38,58,108,147,9,4.44,0,0,1,3,5,$50 and over,Mediterranean
-45,ai-fiori-new-york,4.0,1177,4.07,50,77,160,345,545,16,3.88,0,0,8,2,6,$31 to $50,Other Europe
-46,philippe-by-philippe-chow-new-york,3.5,633,3.49,85,79,111,159,199,10,3.2,1,2,3,2,2,$31 to $50,Chinese
-47,cesca-new-york-2,3.5,354,3.54,42,53,52,87,120,5,4.6,0,0,0,2,3,$31 to $50,Italian
-48,butter-midtown-new-york,3.5,908,3.34,104,175,162,241,226,26,3.08,5,7,3,3,8,$31 to $50,Contemporary American
-49,smith-and-wollensky-new-york,3.5,1282,3.46,137,180,254,374,337,18,3.56,2,3,2,5,6,$50 and over,Steakhouse
-50,orsay-new-york,3.5,253,3.51,25,33,50,77,68,1,4.0,0,0,0,1,0,$31 to $50,French
-51,nice-matin-new-york,3.5,698,3.42,66,96,150,254,132,4,2.75,0,1,3,0,0,$31 to $50,French
-52,db-bistro-moderne-new-york-3,3.5,657,3.49,35,85,181,232,124,8,3.5,1,2,0,2,3,$31 to $50,French
-53,the-capital-grille-new-york-2,4.0,707,4.07,31,48,78,230,320,6,4.0,1,0,0,2,3,$50 and over,Steakhouse
-54,fig-and-olive-meatpacking-new-york-3,3.5,1308,3.68,74,148,267,456,363,7,4.29,0,1,1,0,5,$31 to $50,Mediterranean
-55,barbounia-new-york,3.5,1181,3.67,82,117,248,396,338,11,3.55,1,1,4,1,4,$30 and under,Mediterranean
-56,kellari-taverna-new-york,3.5,572,3.53,58,77,103,172,162,3,3.67,0,1,0,1,1,$31 to $50,Greek
-57,almond-new-york,4.0,979,3.75,45,87,180,419,248,3,3.67,0,1,0,1,1,$31 to $50,Other
-58,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican
-59,momofuku-nishi-new-york,4.0,534,3.79,21,57,104,183,169,11,3.64,1,1,2,4,3,$31 to $50,Contemporary American
-60,felidia-new-york,4.0,510,3.91,39,50,66,117,238,5,3.2,1,0,2,1,1,$31 to $50,Italian
-61,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican
-62,taboon-new-york,4.0,602,4.03,37,39,61,198,267,4,3.75,1,0,0,1,2,$50 and over,Other
-63,bocca-di-bacco-new-york-5,3.5,239,3.64,27,22,40,72,78,1,4.0,0,0,0,1,0,$30 and under,Italian
-64,rotisserie-georgette-new-york,4.0,192,3.85,17,14,29,52,80,3,3.33,1,0,0,1,1,$30 and under,French
-65,the-national-bar-and-dining-rooms-new-york-2,3.0,616,2.92,115,131,138,150,82,2,2.0,1,0,1,0,0,$30 and under,Contemporary American
-66,the-wayfarer-new-york,3.5,340,3.57,40,38,57,98,107,2,3.5,0,1,0,0,1,$31 to $50,American
-67,the-metropolitan-museum-of-art-new-york-3,4.5,2613,4.74,40,24,75,298,2176,16,4.69,0,0,1,3,12,$50 and over,Contemporary American
-68,il-mulino-new-york-downtown-new-york-2,4.0,517,4.1,35,42,51,98,291,1,3.0,0,0,1,0,0,$50 and over,Italian
-69,molyvos-new-york,4.0,471,3.76,27,45,89,163,147,2,4.0,0,0,0,2,0,$31 to $50,Greek
-70,danji-new-york,4.0,944,3.89,42,66,151,384,301,12,4.08,1,0,2,3,6,$31 to $50,Japanese & Koren
-71,tommy-bahama-restaurant-bar-store-new-york-new-york,4.0,548,4.07,15,34,58,230,211,7,4.43,0,0,1,2,4,$30 and under,American
-72,marseille-new-york,4.0,831,3.82,34,58,162,347,230,7,4.0,0,0,2,3,2,$31 to $50,French
-73,sarabeths-east-new-york-2,3.5,614,3.5,53,70,130,238,123,2,4.0,0,0,1,0,1,$30 and under,American
-74,the-capital-grille-new-york-2,4.0,707,4.07,31,48,78,230,320,6,4.0,1,0,0,2,3,$50 and over,Steakhouse
-75,hunt-and-fish-club-new-york-2,4.0,448,3.82,39,47,63,104,195,19,4.0,2,1,2,4,10,$50 and over,Steakhouse
-76,ammos-estiatorio-new-york-4,3.0,246,3.08,47,47,49,46,57,4,3.0,0,1,2,1,0,$31 to $50,Seafood
-77,tbar-new-york-2,4.0,179,3.9,15,10,28,51,75,3,4.0,0,0,1,1,1,$31 to $50,Steakhouse
-78,bocca-di-bacco-hells-kitchen-new-york,3.5,617,3.71,50,49,110,229,179,5,4.2,0,0,2,0,3,$30 and under,Italian
-79,the-clocktower-new-york,4.0,338,4.01,12,32,43,105,146,12,3.58,1,2,2,3,4,$50 and over,Other Europe
-80,masseria-dei-vini-new-york,4.0,402,4.18,28,20,30,99,225,5,4.6,0,0,0,2,3,$31 to $50,Italian
-81,lexington-brass-new-york,3.5,798,3.48,90,103,132,280,193,8,3.88,1,0,1,3,3,$31 to $50,American
-82,serra-at-la-birreria-new-york,3.0,1212,3.03,202,223,278,360,149,14,3.07,3,3,2,2,4,$30 and under,Italian
-83,gaonnuri-new-york-3,3.5,748,3.7,57,66,134,278,213,15,3.8,2,1,0,7,5,$31 to $50,Japanese & Koren
-84,obao-new-york-3,4.0,2144,3.76,181,167,323,782,691,35,3.8,4,1,6,11,13,$31 to $50,Southeast Asian
-85,remi-new-york-2,3.5,300,3.7,24,29,47,112,88,1,1.0,1,0,0,0,0,$31 to $50,Italian
-86,glass-house-tavern-new-york,3.5,317,3.54,20,41,68,124,64,4,3.25,0,1,1,2,0,$31 to $50,Contemporary American
-87,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican
-88,stella-34-trattoria-new-york,3.5,634,3.69,57,53,100,243,181,6,3.33,1,0,2,2,1,$30 and under,Italian
-89,mr-chow-new-york,3.0,328,3.01,73,52,65,74,64,3,2.0,2,0,0,1,0,$50 and over,Chinese
-90,casa-lever-new-york,4.0,198,3.77,11,18,33,80,56,4,4.5,0,0,1,0,3,$50 and over,Italian
-91,jams-new-york-3,3.5,264,3.5,31,31,57,65,80,4,3.25,1,0,1,1,1,$30 and under,American
-92,ousia-new-york,4.0,189,4.16,11,11,16,49,102,5,4.2,0,1,0,1,3,$31 to $50,Mediterranean
-93,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican
-94,the-red-cat-new-york,4.0,678,4.03,16,32,95,311,224,1,3.0,0,0,1,0,0,$31 to $50,American
-95,ruths-chris-steak-house-new-york-5,4.0,860,3.81,72,86,101,274,327,5,2.4,2,1,1,0,1,$31 to $50,Steakhouse
-96,the-seafire-grill-new-york-4,4.5,1058,4.4,25,44,82,236,671,21,4.57,1,0,1,3,16,$31 to $50,Seafood
-97,blue-water-grill-new-york,4.0,1449,3.75,69,140,273,570,397,3,3.67,0,0,1,2,0,$31 to $50,Seafood
-98,vaucluse-new-york,4.0,226,3.91,15,20,36,54,101,2,4.5,0,0,0,1,1,$31 to $50,French
-99,legasea-seafood-brasserie-new-york-2,4.0,228,4.0,15,21,25,56,111,7,4.43,0,1,0,1,5,$50 and over,Seafood
-100,stk-midtown-new-york,3.5,844,3.51,101,92,158,261,232,20,3.1,4,2,5,6,3,$31 to $50,Steakhouse
-101,esca-new-york,3.0,686,3.21,118,125,108,165,170,3,3.67,0,1,0,1,1,$30 and under,Italian
-102,the-leopard-at-des-artistes-new-york,4.0,205,3.84,12,21,31,64,77,1,5.0,0,0,0,0,1,$50 and over,Italian
-103,21-club-new-york,3.5,585,3.57,61,73,102,171,178,10,3.8,0,2,1,4,3,$50 and over,American
-104,benoit-new-york,3.5,423,3.52,40,54,81,140,108,4,3.25,0,2,0,1,1,$31 to $50,French
-105,dadong-new-york-new-york,3.0,498,2.97,152,72,59,70,145,26,2.81,9,4,3,3,7,$31 to $50,Chinese
-106,lincoln-square-steak-new-york,4.5,760,4.37,39,41,58,86,536,5,3.2,2,0,0,1,2,$50 and over,Steakhouse
-107,club-a-steakhouse-new-york,4.5,2546,4.39,80,84,236,514,1632,15,4.2,1,2,0,2,10,$31 to $50,Steakhouse
-108,anassa-taverna-new-york,3.5,276,3.47,36,32,46,91,71,1,5.0,0,0,0,0,1,$31 to $50,Greek
-109,cafe-d-alsace-new-york,4.0,1128,3.91,45,81,164,481,357,14,4.07,1,2,0,3,8,$31 to $50,French
-110,burke-and-wills-new-york,4.0,391,4.2,13,21,34,130,193,5,4.4,0,0,0,3,2,$31 to $50,Other
-111,boucherie-west-village-new-york-3,4.5,1015,4.43,40,44,55,175,701,47,4.26,2,4,3,9,29,$31 to $50,French
-112,natsumi-new-york-3,4.0,782,3.82,48,75,120,268,271,5,4.4,0,0,0,3,2,$31 to $50,Japanese & Koren
-113,armani-ristorante-new-york,4.0,208,3.81,21,15,27,65,80,5,3.6,0,0,3,1,1,$31 to $50,Italian
-114,brasserie-ruhlmann-new-york,3.0,251,3.21,44,28,54,81,44,2,3.5,0,1,0,0,1,$31 to $50,French
-115,docks-oyster-bar-and-seafood-grill-new-york,3.5,572,3.31,65,95,126,167,119,8,3.25,1,2,1,2,2,$31 to $50,Seafood
-116,chez-josephine-new-york,4.0,451,3.76,36,47,68,140,160,6,3.5,2,0,0,1,3,$31 to $50,French
-117,brasserie-8-1-2-new-york-2,3.5,421,3.65,24,46,89,157,105,5,4.0,0,1,0,2,2,$31 to $50,French
-118,churrascaria-plataforma-new-york-3,4.0,1287,4.09,57,72,166,396,596,23,4.0,2,2,1,7,11,$50 and over,Steakhouse
-119,riverpark-new-york,4.0,751,4.0,40,40,98,277,296,7,4.57,0,0,0,3,4,$31 to $50,American
-120,casa-nonna-new-york-2,4.0,490,3.94,21,48,70,153,198,7,3.57,0,2,0,4,1,$31 to $50,Italian
-121,farmer-and-the-fish-gramercy-new-york,3.5,265,3.52,40,28,47,55,95,11,3.82,1,1,1,4,4,$30 and under,Other
-122,the-sea-grill-new-york,4.0,343,3.76,20,32,65,118,108,10,4.1,0,1,1,4,4,$31 to $50,Seafood
-123,bar-italia-astoria-4,4.0,399,4.04,25,35,34,111,194,2,4.5,0,0,0,1,1,$31 to $50,Italian
-124,strip-house-new-york-13,4.0,942,3.96,58,68,124,291,401,3,3.67,1,0,0,0,2,$50 and over,Steakhouse
-125,maiella-long-island-city,4.0,743,4.22,43,50,69,120,461,25,3.92,0,5,4,4,12,$31 to $50,Italian
-126,storico-new-york,4.0,196,3.8,13,18,30,69,66,2,5.0,0,0,0,0,2,$31 to $50,Italian
-127,naples-45-ristorante-e-pizzeria-new-york,3.0,347,3.24,27,54,109,122,35,3,4.33,0,0,0,2,1,$30 and under,Italian
-128,la-sirena-ristorante-new-york-3,3.5,334,3.46,28,57,74,84,91,10,3.8,0,1,2,5,2,$31 to $50,Italian
-129,benjamin-prime-new-york-2,4.5,214,4.48,9,3,21,25,156,9,4.11,1,0,2,0,6,$50 and over,American
-130,david-burke-tavern-new-york,4.0,150,3.84,20,14,13,26,77,7,4.57,0,0,0,3,4,$31 to $50,American
-131,michaels-new-york-10,3.5,194,3.34,38,26,24,45,61,2,3.0,1,0,0,0,1,$31 to $50,American
-132,le-coq-rico-new-york,4.0,303,3.87,21,27,47,84,124,8,4.0,0,0,2,4,2,$31 to $50,French
-133,daniel-new-york-4,4.5,1504,4.52,20,63,97,261,1063,6,4.83,0,0,0,1,5,$31 to $50,French
-134,barbetta-new-york,3.5,215,3.31,42,30,30,46,67,1,2.0,0,1,0,0,0,$31 to $50,Italian
-135,pera-mediterranean-brasserie-new-york,3.5,384,3.44,36,49,89,131,79,4,2.75,1,1,1,0,1,$31 to $50,Mediterranean
-136,the-whitby-bar-and-restaurant-new-york,3.5,58,3.69,5,7,11,13,22,3,3.67,0,0,1,2,0,$31 to $50,American
-137,fig-and-olive-uptown-new-york-3,3.5,394,3.48,29,54,88,143,80,2,4.5,0,0,0,1,1,$31 to $50,Mediterranean
-138,monkey-bar-new-york,3.5,267,3.47,25,35,53,97,57,4,2.5,2,0,1,0,1,$50 and over,American
-139,rock-center-cafe-new-york,3.0,465,2.92,103,71,116,109,66,10,3.3,3,0,1,3,3,$31 to $50,Contemporary American
-140,obicà-mozzarella-bar-pizza-e-cucina-new-york-6,4.0,398,3.81,34,35,51,130,148,7,4.0,1,0,0,3,3,$31 to $50,Italian
-141,etcetera-etcetera-new-york,4.0,406,3.97,17,30,63,136,160,0,,0,0,0,0,0,$31 to $50,Italian
-142,cafe-centro-new-york-8,3.5,149,3.47,7,24,40,48,30,0,,0,0,0,0,0,$31 to $50,French
-143,periyali-new-york,4.0,249,3.84,18,10,42,102,77,1,4.0,0,0,0,1,0,$31 to $50,Greek
-144,shun-lee-west-and-cafe-new-york-2,2.5,446,2.74,124,89,76,94,63,4,2.5,2,0,1,0,1,$31 to $50,Chinese
-145,haru-sushi-new-york-16,3.5,683,3.58,59,72,131,255,166,4,3.25,1,0,1,1,1,$31 to $50,Japanese & Koren
-146,zengo-new-york,3.5,921,3.58,87,90,178,334,232,8,3.75,0,1,2,3,2,$31 to $50,Asian
-147,manzo-ristorante-new-york-3,3.5,310,3.74,26,31,45,104,104,2,3.5,0,0,1,1,0,$31 to $50,Italian
-148,bagatelle-new-york-new-york-2,3.5,677,3.4,130,78,84,162,223,3,2.33,1,1,0,1,0,$31 to $50,French
-149,trattoria-zero-otto-nove-bronx,4.0,700,4.08,31,51,78,211,329,10,4.3,0,1,1,2,6,$31 to $50,Italian
-150,ortzi-new-york-3,4.0,77,3.91,8,4,8,24,33,4,3.75,1,0,0,1,2,$31 to $50,Spanish
-151,american-cut-steakhouse-tribeca-new-york,4.0,536,3.88,40,43,78,156,219,10,3.0,2,2,1,4,1,$31 to $50,Steakhouse
-152,maloney-and-porcelli-new-york,4.0,433,3.79,37,37,59,148,152,1,1.0,1,0,0,0,0,$50 and over,American
-153,royal-35-steakhouse-new-york,4.5,164,4.56,5,5,11,15,128,5,4.2,0,0,1,2,2,$50 and over,Steakhouse
-154,chazz-palminteri-italian-restaurant-new-york-2,4.0,212,3.96,19,17,27,39,110,11,4.18,0,1,2,2,6,$50 and over,Italian
-155,bodega-negra-new-york,3.5,595,3.59,77,65,85,167,201,8,3.75,0,1,2,3,2,$50 and over,Mexican
-156,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican
-157,barraca-new-york,3.5,644,3.68,62,75,88,199,220,8,2.12,3,3,1,0,1,$31 to $50,Spanish
-158,gabriels-bar-and-restaurant-new-york,4.0,151,4.0,5,17,15,50,64,1,2.0,0,1,0,0,0,$50 and over,Italian
-159,the-cecil-steakhouse-new-york,3.5,90,3.51,16,9,11,21,33,3,3.67,1,0,0,0,2,$31 to $50,American
-160,dos-caminos-new-york-3,3.0,951,3.18,150,136,211,302,152,9,3.11,2,1,2,2,2,$31 to $50,Mexican
-161,bobby-vans-grill-jamaica,2.5,280,2.52,87,60,59,49,25,3,2.67,1,1,0,0,1,$31 to $50,American
-162,untitled-at-the-whitney-new-york-3,4.0,276,4.05,14,18,33,86,125,5,4.0,0,1,0,2,2,$31 to $50,American
-163,bedford-and-co-new-york-20,4.0,211,3.83,10,26,32,64,79,5,4.0,0,1,0,2,2,$31 to $50,Contemporary American
-164,pampano-new-york,4.0,546,3.8,28,54,84,214,166,6,4.33,0,1,0,1,4,$31 to $50,Mexican
-165,cipriani-new-york-2,3.5,99,3.56,15,8,14,31,31,0,,0,0,0,0,0,$31 to $50,Italian
-166,lugo-cucina-new-york-2,3.5,305,3.41,28,44,66,110,57,2,3.0,1,0,0,0,1,$31 to $50,Italian
-167,rouge-tomate-chelsea-new-york,4.0,123,3.95,6,12,19,31,55,11,3.36,3,1,0,3,4,$31 to $50,Contemporary American
-168,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish
-169,bann-restaurant-new-york-4,3.5,599,3.6,48,69,107,225,150,6,4.33,0,1,0,1,4,$31 to $50,Japanese & Koren
-170,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish
-171,high-street-on-hudson-new-york,4.0,372,3.78,30,29,61,125,127,9,3.11,1,3,0,4,1,$31 to $50,Contemporary American
-172,hanjan-new-york,4.0,392,3.77,31,32,66,129,134,2,4.0,0,0,1,0,1,$31 to $50,Japanese & Koren
-173,le-colonial-new-york,3.5,260,3.35,29,34,65,82,50,9,1.67,6,1,1,1,0,$31 to $50,Southeast Asian
-174,delmonicos-kitchen-new-york-3,3.5,321,3.49,33,49,63,81,95,0,,0,0,0,0,0,$31 to $50,American
-175,mortons-the-steakhouse-new-york-2,4.0,476,3.89,28,45,64,151,188,8,4.62,0,0,1,1,6,$50 and over,Steakhouse
-176,teds-montana-grill-new-york-new-york,3.5,352,3.47,26,51,85,112,78,2,5.0,0,0,0,0,2,$31 to $50,American
-177,trattoria-italienne-new-york,4.5,113,4.3,5,5,11,22,70,5,5.0,0,0,0,0,5,$30 and under,Italian
-178,felice-64-new-york,3.5,280,3.73,21,28,41,107,83,1,5.0,0,0,0,0,1,$31 to $50,Italian
-179,shun-lee-palace-new-york,3.0,273,3.03,56,50,47,71,49,3,2.0,1,1,1,0,0,$31 to $50,Chinese
-180,aretskys-patroon-new-york-2,4.0,211,3.99,10,11,33,74,83,1,4.0,0,0,0,1,0,$31 to $50,American
-181,frankie-and-johnnies-steakhouse-new-york-4,3.5,225,3.55,27,35,25,64,74,4,3.5,1,0,1,0,2,$31 to $50,Steakhouse
-182,davios-northern-italian-steakhouse-new-york,4.0,267,3.99,19,18,37,65,128,3,4.33,0,0,1,0,2,$31 to $50,Steakhouse
-183,massoni-new-york-2,4.0,209,3.94,11,23,30,48,97,7,3.86,1,0,1,2,3,$31 to $50,Italian
-184,tarallucci-e-vino-upper-west-side-new-york,3.5,111,3.67,10,9,25,31,36,0,,0,0,0,0,0,$31 to $50,Italian
-185,clement-new-york-13,4.0,133,4.14,4,8,19,37,65,2,4.5,0,0,0,1,1,$31 to $50,American
-186,mifune-new-york-new-york-2,4.0,132,3.83,12,9,19,41,51,19,4.0,0,1,5,6,7,$31 to $50,Japanese & Koren
-187,sutton-inn-new-york,4.0,110,4.24,8,7,6,19,70,2,5.0,0,0,0,0,2,$30 and under,American
-188,the-house-new-york,3.5,374,3.61,34,40,62,139,99,1,5.0,0,0,0,0,1,$31 to $50,American
-189,cleo-new-york-2,4.0,71,4.23,4,4,6,15,42,4,3.75,0,1,0,2,1,$31 to $50,Mediterranean
-190,naoki-takahashi-new-york,4.0,116,4.12,6,7,16,25,62,14,4.21,0,2,1,3,8,$31 to $50,Japanese & Koren
-191,junoon-new-york,3.5,1356,3.64,141,157,216,378,464,13,3.85,2,0,2,3,6,$50 and over,Indian
-192,brasserie-cognac-new-york-2,3.5,346,3.35,35,54,75,120,62,1,4.0,0,0,0,1,0,$31 to $50,French
-193,scampi-new-york-2,4.0,162,4.15,7,11,17,43,84,5,3.6,1,0,0,3,1,$30 and under,Italian
-194,society-cafe-new-york-2,4.0,131,4.11,4,13,13,36,65,10,3.6,2,0,2,2,4,$31 to $50,American
-195,suzuki-new-york-3,4.0,110,3.86,11,11,13,22,53,4,2.75,1,1,1,0,1,$50 and over,Japanese & Koren
-196,inakaya-new-york,3.5,511,3.66,46,48,94,170,153,6,4.67,0,0,0,2,4,$31 to $50,Japanese & Koren
-197,rossinis-new-york,4.0,177,3.85,17,17,18,48,77,5,4.8,0,0,0,1,4,$31 to $50,Italian
-198,charlie-palmer-steak-new-york-2,4.0,192,3.97,12,16,25,51,88,6,4.33,0,0,1,2,3,$31 to $50,Steakhouse
-199,bocca-restaurant-and-bar-new-york,3.5,347,3.73,31,22,66,119,109,4,3.75,0,0,2,1,1,$30 and under,Italian
-200,nyy-steak-new-york-2,4.0,261,4.15,11,14,35,66,135,5,4.6,0,0,0,2,3,$31 to $50,Steakhouse
-201,irvington-new-york-2,3.5,188,3.65,17,19,39,50,63,2,4.0,0,0,1,0,1,$30 and under,Contemporary American
-202,charlie-palmer-at-the-knick-new-york-2,3.0,61,3.11,11,9,15,14,12,5,3.4,0,1,2,1,1,$31 to $50,Contemporary American
-203,nick-and-stefs-steakhouse-new-york,3.5,204,3.45,21,26,48,58,51,0,,0,0,0,0,0,$31 to $50,Steakhouse
-204,altesi-ristorante-new-york,4.0,51,3.82,8,2,5,12,24,1,1.0,1,0,0,0,0,$31 to $50,Italian
-205,giorgios-of-gramercy-new-york,4.0,719,4.06,28,39,94,260,298,2,4.0,0,0,0,2,0,$31 to $50,Contemporary American
-206,perrine-new-york-2,4.0,56,3.88,4,4,11,13,24,6,2.67,1,2,2,0,1,$31 to $50,French
-207,la-fonda-del-sol-new-york,3.5,301,3.43,16,49,82,98,56,3,4.0,0,0,0,3,0,$31 to $50,Spanish
-208,morrell-wine-bar-and-cafe-new-york,3.5,223,3.56,22,27,39,74,61,1,4.0,0,0,0,1,0,$31 to $50,American
-209,bobby-vans-grill-jamaica,2.5,280,2.52,87,60,59,49,25,3,2.67,1,1,0,0,1,$50 and over,American
-210,kingside-new-york,3.5,226,3.4,26,31,52,61,56,3,3.67,1,0,0,0,2,$31 to $50,American
-211,i-trulli-new-york,3.5,339,3.61,29,39,64,109,98,3,3.0,0,1,1,1,0,$31 to $50,Italian
-212,haru-sushi-new-york-18,3.5,73,3.27,14,9,12,19,19,0,,0,0,0,0,0,$31 to $50,Japanese & Koren
-213,club-a-steakhouse-new-york,4.5,2546,4.39,80,84,236,514,1632,15,4.2,1,2,0,2,10,$50 and over,Steakhouse
-214,il-postino-new-york-2,3.5,107,3.65,10,14,14,34,35,5,2.2,1,3,0,1,0,$50 and over,Italian
-215,nippon-new-york,3.5,156,3.74,11,19,22,51,53,2,5.0,0,0,0,0,2,$31 to $50,Japanese & Koren
-216,green-fig-new-york-2,3.5,119,3.38,29,11,13,18,48,2,2.5,1,0,0,1,0,$31 to $50,Mediterranean
-217,tender-steak-and-sushi-new-york-2,4.0,280,3.86,25,22,42,70,121,2,3.0,1,0,0,0,1,$31 to $50,American
-218,tarallucci-e-vino-union-square-new-york-5,3.5,353,3.64,25,42,61,133,92,5,4.0,0,1,0,2,2,$31 to $50,Italian
-219,bobby-vans-steakhouse-new-york-3,3.5,373,3.45,41,49,78,110,95,3,4.0,0,1,0,0,2,$31 to $50,Steakhouse
-220,astor-court-new-york,3.0,68,3.24,14,9,9,19,17,1,4.0,0,0,0,1,0,$31 to $50,Other
-221,sofrito-new-york-new-york,2.5,491,2.5,191,80,69,87,64,12,2.33,3,4,4,0,1,$30 and under,Spanish
-222,tarallucci-e-vino-nomad-new-york,4.0,110,3.97,8,8,18,21,55,2,3.5,0,0,1,1,0,$31 to $50,Italian
-223,frankie-and-johnnies-steakhouse-new-york-4,3.5,225,3.55,27,35,25,64,74,4,3.5,1,0,1,0,2,$31 to $50,Steakhouse
-224,the-shakespeare-new-york,4.0,341,3.83,22,31,42,134,112,3,4.67,0,0,0,1,2,$31 to $50,Other Europe
-225,gaby-brasserie-française-new-york,3.0,95,3.16,13,18,17,35,12,2,1.0,2,0,0,0,0,$31 to $50,French
-226,southgate-bar-and-restaurant-new-york-4,3.5,185,3.28,28,24,36,63,34,1,5.0,0,0,0,0,1,$31 to $50,American
-227,empire-steak-house-new-york-9,3.5,246,3.27,46,36,41,52,71,10,3.9,1,1,2,0,6,$50 and over,Steakhouse
-228,state-grill-and-bar-new-york,4.0,123,4.21,7,6,9,33,68,1,4.0,0,0,0,1,0,$31 to $50,American
-229,the-lambs-club-new-york,3.0,554,3.22,96,90,92,149,127,4,3.5,1,0,1,0,2,$50 and over,Contemporary American
-230,bocca-di-bacco-new-york-4,3.5,169,3.39,26,24,25,46,48,1,3.0,0,0,1,0,0,$30 and under,Italian
-231,amma-new-york,4.0,475,3.76,52,31,62,164,166,1,5.0,0,0,0,0,1,$31 to $50,Indian
-232,ben-and-jacks-steakhouse-new-york-5,4.0,244,4.13,5,18,30,79,112,13,4.08,1,1,1,3,7,$50 and over,Steakhouse
-233,jue-lan-club-new-york,3.0,315,3.17,69,50,36,79,81,9,3.56,1,1,2,2,3,$31 to $50,Chinese
-234,empire-steak-house-new-york-11,4.0,232,3.91,25,17,27,49,114,17,3.71,2,1,4,3,7,$50 and over,Steakhouse
-235,bread-and-tulips-new-york,4.0,250,3.94,9,12,50,92,87,4,4.25,0,0,0,3,1,$30 and under,Italian
-236,tudor-city-steakhouse-new-york,3.5,67,3.46,19,4,5,5,34,2,5.0,0,0,0,0,2,$31 to $50,Steakhouse
-237,triomphe-new-york-2,3.5,132,3.6,10,17,24,46,35,0,,0,0,0,0,0,$31 to $50,French
-238,blenheim-new-york-3,3.5,214,3.72,27,20,27,52,88,1,2.0,0,1,0,0,0,$31 to $50,Contemporary American
-239,darbar-fine-indian-cuisine-new-york-2,4.0,520,4.02,28,40,60,158,234,7,4.71,0,0,1,0,6,$30 and under,Indian
-240,zio-ristorante-new-york,4.0,284,4.15,13,19,30,72,150,6,4.33,0,0,2,0,4,$31 to $50,Italian
-241,meet-the-meat-astoria,4.5,297,4.47,9,11,14,61,202,17,4.24,0,1,4,2,10,$31 to $50,Steakhouse
-242,the-morgan-dining-room-new-york,4.0,23,3.83,0,3,3,12,5,0,,0,0,0,0,0,$30 and under,American
-243,montebello-ristorante-italiano-new-york,3.5,83,3.33,11,10,17,31,14,0,,0,0,0,0,0,$31 to $50,Italian
-244,darbar-grill-new-york,4.0,498,3.87,34,34,72,180,178,4,3.75,0,0,2,1,1,$30 and under,Indian
-245,the-gin-parlour-new-york,3.5,30,3.5,5,2,7,5,11,2,3.0,0,1,0,1,0,$30 and under,Contemporary American
-246,michael-jordans-the-steak-house-nyc-new-york-2,3.0,405,2.84,83,91,92,87,52,1,5.0,0,0,0,0,1,$31 to $50,Steakhouse
-247,beauty-and-essex-new-york,4.0,3249,3.93,214,201,456,1114,1264,22,4.23,1,0,4,5,12,$31 to $50,Other
-248,the-mercer-kitchen-new-york-6,3.5,1505,3.31,170,212,370,492,261,7,4.29,0,0,2,1,4,$30 and under,American
-249,the-dutch-new-york,3.5,1103,3.54,90,150,210,381,272,3,3.33,1,0,0,1,1,$31 to $50,American
-250,lafayette-new-york-2,3.5,837,3.56,68,103,169,290,207,5,2.6,2,0,1,2,0,$31 to $50,French
-251,vandal-new-york,3.5,1308,3.55,191,114,207,380,416,21,3.95,2,0,4,6,9,$50 and over,Other
-252,gotham-bar-and-grill-new-york,4.5,1515,4.3,37,60,163,406,849,10,3.8,1,1,0,5,3,$50 and over,Contemporary American
-253,il-buco-alimentari-and-vineria-new-york-2,3.5,512,3.47,54,74,94,157,133,3,3.0,1,0,0,2,0,$31 to $50,Italian
-254,bar-primi-new-york-3,3.5,545,3.69,30,54,117,198,146,5,4.2,0,0,2,0,3,$30 and under,Italian
-255,lure-fishbar-new-york-2,4.0,1554,3.86,73,120,256,613,492,11,4.73,0,0,1,1,9,$31 to $50,Seafood
-256,nix-new-york,4.0,461,4.04,15,35,76,126,209,13,3.62,1,3,2,1,6,$31 to $50,Other
-257,lupa-new-york,4.0,1447,4.04,48,100,189,523,587,6,4.17,0,0,0,5,1,$31 to $50,Italian
-258,claudette-new-york,4.0,338,3.97,15,21,54,118,130,3,3.67,0,1,0,1,1,$30 and under,French
-259,empellón-taqueria-new-york,3.5,661,3.67,44,77,125,222,193,2,3.0,1,0,0,0,1,$31 to $50,Mexican
-260,perry-st-new-york,4.0,908,3.96,32,74,140,314,348,7,3.29,1,1,1,3,1,$31 to $50,Contemporary American
-261,boucherie-west-village-new-york-3,4.5,1015,4.43,40,44,55,175,701,47,4.26,2,4,3,9,29,$31 to $50,French
-262,indochine-new-york,3.5,352,3.48,40,28,83,124,77,6,3.5,0,1,2,2,1,$50 and over,Southeast Asian
-263,el-vez-new-york,3.5,583,3.58,41,71,119,211,141,7,4.57,0,0,0,3,4,$30 and under,Mexican
-264,public-kitchen-new-york-2,3.5,165,3.64,19,23,22,35,66,5,3.6,0,1,1,2,1,$31 to $50,Other
-265,tamarind-new-york-4,4.0,832,3.94,60,64,105,244,359,14,3.71,1,2,1,6,4,$31 to $50,Indian
-266,the-stanton-social-new-york,4.0,2770,3.8,162,225,444,1106,833,9,4.11,0,0,1,6,2,$31 to $50,Other
-267,hearth-new-york,4.0,683,3.81,40,69,119,209,246,7,3.14,0,3,1,2,1,$50 and over,American
-268,sarabeths-tribeca-new-york,3.5,643,3.37,63,97,148,209,126,7,3.86,0,0,3,2,2,$30 and under,American
-269,leuca-brooklyn,4.0,279,3.95,21,27,30,68,133,6,4.5,0,0,1,1,4,$31 to $50,Italian
-270,sant-ambroeus-new-york-4,3.5,130,3.55,23,8,17,38,44,5,2.8,1,1,1,2,0,$31 to $50,Italian
-271,il-cantinori-new-york,4.0,235,3.76,19,35,22,66,93,1,5.0,0,0,0,0,1,$50 and over,Italian
-272,mr-chow-new-york,3.0,328,3.01,73,52,65,74,64,3,2.0,2,0,0,1,0,$50 and over,Chinese
-273,narcissa-new-york,3.5,481,3.74,34,46,78,175,148,7,4.14,0,0,2,2,3,$31 to $50,Contemporary American
-274,il-mulino-new-york-downtown-new-york-2,4.0,517,4.1,35,42,51,98,291,1,3.0,0,0,1,0,0,$50 and over,Italian
-275,sant-ambroeus-new-york,4.0,353,3.93,30,19,49,102,153,2,3.5,0,0,1,1,0,$31 to $50,Italian
-276,pig-and-khao-new-york,4.0,1429,3.95,63,111,203,505,547,28,3.75,5,0,3,9,11,$31 to $50,Southeast Asian
-277,little-park-new-york,4.0,332,3.83,24,26,54,108,120,4,3.5,0,1,1,1,1,$31 to $50,Contemporary American
-278,neta-new-york,4.0,358,3.85,25,35,55,95,148,10,2.6,3,2,2,2,1,$50 and over,Japanese & Koren
-279,tutto-il-giorno-new-york-2,3.5,80,3.73,9,7,15,15,34,0,,0,0,0,0,0,$50 and over,Italian
-280,bobo-new-york,4.0,486,3.76,35,51,76,158,166,5,4.6,0,0,0,2,3,$30 and under,French
-281,rafele-ristorante-new-york,4.5,436,4.25,15,26,42,105,248,2,4.5,0,0,0,1,1,$31 to $50,Italian
-282,essex-new-york,3.5,1876,3.53,159,231,358,719,409,9,3.22,2,2,0,2,3,$30 and under,Other
-283,tinys-and-the-bar-upstairs-new-york-2,4.0,528,3.84,36,42,65,210,175,9,3.56,2,1,0,2,4,$31 to $50,Contemporary American
-284,baar-baar-new-york-2,4.0,453,4.22,30,20,40,94,269,27,4.26,0,1,4,9,13,$31 to $50,Indian
-285,the-musket-room-new-york,4.5,409,4.3,10,27,38,90,244,6,5.0,0,0,0,0,6,$31 to $50,Other
-286,delmonicos-new-york,4.0,968,3.8,53,100,169,315,331,11,4.73,0,0,0,3,8,$50 and over,Steakhouse
-287,root-and-bone-new-york,4.0,1475,3.94,78,98,226,500,573,17,4.12,0,2,2,5,8,$31 to $50,Other
-288,bâtard-new-york,4.0,350,3.96,19,20,63,101,147,14,3.79,0,1,5,4,4,$50 and over,Other Europe
-289,left-bank-new-york,3.5,276,3.72,15,29,57,92,83,2,3.5,0,0,1,1,0,$31 to $50,American
-290,american-cut-steakhouse-tribeca-new-york,4.0,536,3.88,40,43,78,156,219,10,3.0,2,2,1,4,1,$31 to $50,Steakhouse
-291,khe-yo-new-york,4.0,653,3.97,38,42,85,227,261,5,3.4,0,0,3,2,0,$31 to $50,Southeast Asian
-292,toloache-thompson-new-york-3,3.5,417,3.74,40,31,73,127,146,3,4.33,0,0,1,0,2,$31 to $50,Mexican
-293,nobu-downtown-new-york,3.5,292,3.6,46,24,49,54,119,14,3.64,1,2,3,3,5,$50 and over,Japanese & Koren
-294,feast-new-york,4.0,448,4.12,17,23,56,143,209,1,5.0,0,0,0,0,1,$31 to $50,Contemporary American
-295,temple-court-new-york,3.5,179,3.66,21,21,27,38,72,13,4.31,0,1,3,0,9,$31 to $50,American
-296,pera-soho-new-york,3.5,424,3.39,63,65,62,110,124,6,3.17,2,1,0,0,3,$31 to $50,Mediterranean
-297,tribeca-grill-new-york-2,3.5,577,3.5,41,67,153,195,121,0,,0,0,0,0,0,$31 to $50,American
-298,fifty-new-york,4.5,127,4.52,1,7,5,26,88,2,5.0,0,0,0,0,2,$31 to $50,Contemporary American
-299,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican
-300,noreetuh-new-york,4.0,393,4.16,4,13,72,133,171,7,3.71,0,2,0,3,2,$31 to $50,American
-301,el-toro-blanco-new-york,3.5,375,3.39,51,46,73,116,89,3,2.33,1,0,2,0,0,$31 to $50,Mexican
-302,san-carlo-osteria-piemonte-new-york-city,4.5,172,4.45,9,7,8,21,127,4,5.0,0,0,0,0,4,$31 to $50,Italian
-303,the-library-at-the-public-new-york,3.5,159,3.73,12,12,29,60,46,3,3.67,1,0,0,0,2,$30 and under,American
-304,wolfgang-puck-new-york-4,3.5,68,3.66,5,9,13,18,23,0,,0,0,0,0,0,$31 to $50,Steakhouse
-305,osteria-della-pace-new-york,3.0,65,3.17,15,9,7,18,16,2,2.5,1,0,0,1,0,$31 to $50,Italian
-306,tuome-new-york-2,4.5,412,4.28,6,18,42,136,210,12,4.17,0,0,3,4,5,$31 to $50,Contemporary American
-307,barano-brooklyn,4.5,213,4.46,4,7,22,33,147,8,4.5,0,1,0,1,6,$30 and under,Italian
-308,buttermilk-channel-brooklyn,4.0,1811,3.95,76,134,254,686,661,21,3.33,5,1,4,4,7,$31 to $50,American
-309,la-loteria-new-york,4.0,290,4.1,15,19,30,85,141,2,5.0,0,0,0,0,2,$31 to $50,Mexican
-310,il-mulino-prime-new-york,3.5,135,3.41,17,29,18,24,47,1,5.0,0,0,0,0,1,$50 and over,Italian
-311,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish
-312,la-sirene-new-york,4.5,1557,4.29,33,65,152,481,826,12,4.25,0,1,1,4,6,$31 to $50,French
-313,fonda-east-village-new-york-2,4.0,707,3.94,39,49,84,275,260,3,5.0,0,0,0,0,3,$31 to $50,Mexican
-314,kingsley-new-york-2,3.5,139,3.53,17,26,20,18,58,3,4.33,0,0,1,0,2,$31 to $50,Contemporary American
-315,porsena-new-york,3.5,246,3.53,19,43,43,71,70,4,4.75,0,0,0,1,3,$30 and under,Italian
-316,the-palm-tribeca-new-york-2,3.5,260,3.52,17,39,57,86,61,4,3.75,1,0,0,1,2,$50 and over,Steakhouse
-317,nickel-and-diner-new-york-2,4.0,370,3.8,29,41,56,92,152,9,4.22,0,1,0,4,4,$31 to $50,American
-318,david-burke-kitchen-new-york,4.0,1121,3.75,57,117,212,397,338,14,3.79,1,1,3,4,5,$31 to $50,American
-319,il-cortile-restaurant-new-york,3.5,456,3.71,49,48,59,131,169,6,4.67,0,0,1,0,5,$31 to $50,Italian
-320,felice-new-york-6,4.0,310,4.11,14,19,29,106,142,7,4.14,0,1,0,3,3,$31 to $50,Italian
-321,cipriani-new-york-2,3.5,99,3.56,15,8,14,31,31,0,,0,0,0,0,0,$31 to $50,Italian
-322,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican
-323,north-square-new-york,4.0,286,3.83,13,22,48,122,81,0,,0,0,0,0,0,$31 to $50,American
-324,edi-and-the-wolf-new-york,4.0,407,3.91,18,38,56,144,151,0,,0,0,0,0,0,$30 and under,Other Europe
-325,gran-morsi-new-york,4.5,306,4.32,11,14,23,77,181,5,4.6,0,0,1,0,4,$31 to $50,Italian
-326,bistrot-leo-new-york,4.5,29,4.24,1,2,2,8,16,4,3.5,1,0,0,2,1,$31 to $50,French
-327,reserve-cut-new-york,4.0,246,3.99,22,25,22,41,136,2,4.0,0,0,1,0,1,$50 and over,Other
-328,rice-and-gold-new-york,3.5,269,3.71,28,25,47,66,103,12,4.0,0,1,3,3,5,$31 to $50,Asian
-329,thalassa-restaurant-new-york,4.0,379,4.08,26,27,33,97,196,7,5.0,0,0,0,0,7,$31 to $50,Seafood
-330,strip-house-speakeasy-new-york,4.0,43,3.81,4,4,4,15,16,1,5.0,0,0,0,0,1,$50 and over,Steakhouse
-331,greenwich-steakhouse-new-york,4.5,207,4.46,16,9,5,11,166,17,4.41,0,3,0,1,13,$50 and over,Steakhouse
-332,schilling-new-york,4.0,132,4.2,6,6,11,42,67,3,4.0,0,0,1,1,1,$30 and under,Other Europe
-333,mortons-the-steakhouse-new-york-2,4.0,476,3.89,28,45,64,151,188,8,4.62,0,0,1,1,6,$50 and over,Steakhouse
-334,markjoseph-steakhouse-new-york-2,4.0,376,3.98,18,22,65,117,154,4,4.5,0,0,0,2,2,$50 and over,Steakhouse
-335,the-tuck-room-new-york,4.0,212,3.89,26,14,23,43,106,10,4.0,1,0,3,0,6,$30 and under,Other
-336,talde-brooklyn,3.5,1036,3.7,77,116,187,317,339,8,3.38,3,0,0,1,4,$30 and under,Asian
-337,yellow-magnolia-café-brooklyn,4.0,54,3.83,1,10,10,9,24,1,2.0,0,1,0,0,0,$30 and under,American
-338,benchmark-brooklyn,3.5,474,3.47,65,58,77,139,135,4,3.5,0,2,0,0,2,$31 to $50,Contemporary American
-339,altesi-downtown-new-york,4.0,40,4.08,1,4,5,11,19,2,3.5,0,1,0,0,1,$31 to $50,Italian
-340,the-williamsburg-hotel-brooklyn-2,3.0,153,2.75,63,19,8,20,43,7,2.14,4,1,0,1,1,$30 and under,Contemporary American
-341,atrio-wine-bar-and-restaurant-new-york,3.5,82,3.46,11,7,17,27,20,0,,0,0,0,0,0,$31 to $50,Contemporary American
-342,bobby-vans-steakhouse-new-york-3,3.5,373,3.45,41,49,78,110,95,3,4.0,0,1,0,0,2,$31 to $50,Steakhouse
-343,brasserie-séoul-brooklyn-8,3.5,68,3.31,10,16,8,11,23,7,3.14,1,2,1,1,2,$30 and under,French
-344,greenhouse-cafe-brooklyn,3.5,119,3.44,18,16,19,28,38,3,3.67,0,1,0,1,1,$30 and under,Other
-345,lorenzos-restaurant-bar-and-cabaret-staten-island,3.0,74,2.96,18,14,12,13,17,0,,0,0,0,0,0,$31 to $50,Italian
+,alias,cur_rating,review_count,avg_rating,rating_1s,rating_2s,rating_3s,rating_4s,rating_5s,rw_review_count,rw_avg_rating,rw_rating_1s,rw_rating_2s,rw_rating_3s,rw_rating_4s,rw_rating_5s,price_range,restaurant_main_type,district
+0,smoke-jazz-and-supper-club-new-york-2,4.0,350,3.78,30,32,44,122,122,5,2.2,1,2,2,0,0,$31 to $50,Contemporary American,Upper West Side
+1,tavern-on-the-green-new-york-7,3.5,1238,3.38,208,163,192,304,371,29,3.86,1,5,4,6,13,$31 to $50,American,Upper West Side
+2,abc-kitchen-new-york,4.0,2855,4.09,101,169,359,969,1257,20,3.8,3,2,2,2,11,$31 to $50,Contemporary American,Lower East Side
+3,catch-new-york-new-york,3.5,36,3.44,9,2,4,6,15,1,1.0,1,0,0,0,0,$31 to $50,Seafood,Greenwich Village and Soho
+4,becco-new-york-4,3.5,2674,3.73,211,261,462,857,883,16,4.12,0,3,1,3,9,$30 and under,Italian,Gramercy Park and Murray Hill
+5,estiatorio-milos-new-york,4.0,827,3.99,42,62,106,271,346,12,4.42,0,0,2,3,7,$50 and over,Seafood,Chelsea and Clinton
+6,tao-uptown-new-york,3.5,2449,3.55,219,267,521,822,620,12,3.67,2,0,2,4,4,$31 to $50,Asian,Gramercy Park and Murray Hill
+7,red-rooster-harlem-new-york-3,3.5,2939,3.53,273,420,573,828,845,36,3.78,3,6,4,6,17,$31 to $50,Other,Harlem
+8,del-friscos-double-eagle-steakhouse-new-york,4.5,2751,4.29,89,127,276,657,1602,44,4.41,1,1,6,7,29,$50 and over,Steakhouse,Chelsea and Clinton
+9,fig-and-olive-fifth-ave-new-york-4,3.5,1098,3.57,89,124,203,432,250,13,3.77,0,2,4,2,5,$31 to $50,Mediterranean,Upper East Side
+10,rosa-mexicano-new-york-6,3.5,1111,3.59,90,122,229,382,288,14,4.07,0,1,4,2,7,$31 to $50,Mexican,Upper West Side
+11,abc-cocina-new-york,4.0,839,3.83,38,80,146,295,280,10,4.0,0,2,1,2,5,$30 and under,Other,Lower East Side
+12,gallaghers-steakhouse-new-york,4.0,970,4.13,46,66,114,236,508,20,3.55,3,4,2,1,10,$50 and over,Steakhouse,Chelsea and Clinton
+13,boulud-sud-new-york,4.0,682,3.9,30,54,108,254,236,7,4.57,0,0,0,3,4,$50 and over,Mediterranean,Upper West Side
+14,nougatine-at-jean-georges-new-york-3,4.0,1061,3.86,71,88,163,332,407,9,3.44,2,0,2,2,3,$31 to $50,French,Upper West Side
+15,sarabeths-new-york-10,3.5,1688,3.4,174,247,377,504,386,18,3.39,2,3,4,4,5,$30 and under,American,Chelsea and Clinton
+16,tao-downtown-new-york-2,3.5,1250,3.61,158,129,172,372,419,24,2.96,8,2,3,5,6,$50 and over,Asian,Chelsea and Clinton
+17,ilili-new-york-2,4.0,2251,4.03,70,154,293,860,874,14,3.79,0,3,3,2,6,$31 to $50,Other,Chelsea and Clinton
+18,scarpetta-new-york,4.0,1784,4.18,58,83,195,594,854,18,4.17,1,0,2,7,8,$31 to $50,Italian,Gramercy Park and Murray Hill
+19,atlantic-grill-new-york-3,3.5,546,3.74,33,50,95,218,150,1,4.0,0,0,0,1,0,$31 to $50,Seafood,Upper West Side
+20,empellón-new-york-3,4.0,299,3.89,19,28,39,93,120,11,3.91,0,2,1,4,4,$31 to $50,Mexican,Gramercy Park and Murray Hill
+21,ocean-prime-new-york,4.5,481,4.42,13,22,33,96,317,24,4.42,0,2,2,4,16,$31 to $50,Seafood,Chelsea and Clinton
+22,sarabeths-west-new-york,3.5,868,3.43,80,114,188,327,159,6,3.67,1,1,0,1,3,$30 and under,American,Upper West Side
+24,toloache-50-new-york,4.0,1761,3.93,77,125,272,656,631,6,4.17,1,0,0,1,4,$30 and under,Mexican,Greenwich Village and Soho
+25,blue-fin-new-york,3.5,944,3.54,70,104,214,359,197,7,3.86,0,1,1,3,2,$31 to $50,Seafood,Chelsea and Clinton
+26,bar-boulud-new-york-2,3.5,816,3.43,62,113,202,287,152,6,3.67,0,1,1,3,1,$30 and under,French,Upper West Side
+27,hakkasan-new-york,3.5,846,3.74,60,84,162,247,293,8,4.0,0,1,2,1,4,$50 and over,Chinese,Chelsea and Clinton
+28,lincoln-ristorante-new-york,4.0,541,3.81,54,44,65,165,213,6,4.33,0,0,1,2,3,$31 to $50,Italian,Upper West Side
+29,cafe-boulud-new-york-4,4.0,670,4.08,38,39,76,198,319,12,3.92,2,1,0,2,7,$50 and over,French,Upper East Side
+30,the-view-restaurant-and-lounge-new-york,3.0,974,3.09,159,171,243,230,171,10,3.3,2,1,2,2,3,$31 to $50,Contemporary American,Chelsea and Clinton
+31,park-avenue-autumn-winter-spring-summer-new-york-3,4.0,844,4.04,40,64,105,250,385,36,4.06,1,3,5,11,16,$31 to $50,American,Gramercy Park and Murray Hill
+32,zuma-new-york-2,3.5,564,3.53,90,60,80,127,207,8,4.12,0,1,1,2,4,$50 and over,Japanese & Koren,Gramercy Park and Murray Hill
+33,la-pecora-bianca-new-york,4.0,460,3.75,30,59,64,149,158,8,4.38,0,0,1,3,4,$30 and under,Italian,Gramercy Park and Murray Hill
+34,la-pecora-bianca-new-york,4.0,460,3.75,30,59,64,149,158,8,4.38,0,0,1,3,4,$30 and under,Italian,Gramercy Park and Murray Hill
+35,calle-ocho-new-york,4.0,2458,3.94,99,165,374,969,851,19,3.58,1,3,4,6,5,$31 to $50,Spanish,Upper West Side
+36,sarabeths-new-york-5,3.0,578,3.08,86,119,128,154,91,6,3.0,1,1,1,3,0,$30 and under,American,Greenwich Village and Soho
+37,lavo-new-york-4,3.5,965,3.25,197,96,168,274,230,8,2.38,3,1,3,0,1,$50 and over,Italian,Gramercy Park and Murray Hill
+38,la-masseria-new-york-3,4.0,549,4.07,32,32,59,170,256,6,4.33,0,1,0,1,4,$31 to $50,Italian,Chelsea and Clinton
+39,lido-new-york,4.0,903,4.08,33,54,106,324,386,6,4.0,0,1,1,1,3,$30 and under,Italian,Harlem
+40,ristorante-morini-new-york,4.0,262,3.87,26,20,32,67,117,2,3.5,0,0,1,1,0,$31 to $50,Italian,Chelsea and Clinton
+41,morimoto-new-york,4.0,2921,4.06,104,188,433,914,1282,38,3.79,3,2,9,10,14,$50 and over,Japanese & Koren,Chelsea and Clinton
+42,aureole-new-york,4.0,860,3.81,51,70,152,306,281,19,3.95,1,2,1,8,7,$31 to $50,American,Chelsea and Clinton
+43,fogo-de-chao-brazilian-steakhouse-new-york-4,4.0,1041,3.98,63,62,142,343,431,26,4.23,0,2,3,8,13,$50 and over,Steakhouse,Chelsea and Clinton
+44,limani-new-york,4.0,385,3.77,34,38,58,108,147,9,4.44,0,0,1,3,5,$50 and over,Mediterranean,Chelsea and Clinton
+45,ai-fiori-new-york,4.0,1177,4.07,50,77,160,345,545,16,3.88,0,0,8,2,6,$31 to $50,Other Europe,Chelsea and Clinton
+46,philippe-by-philippe-chow-new-york,3.5,633,3.49,85,79,111,159,199,10,3.2,1,2,3,2,2,$31 to $50,Chinese,Upper East Side
+47,cesca-new-york-2,3.5,354,3.54,42,53,52,87,120,5,4.6,0,0,0,2,3,$31 to $50,Italian,Upper West Side
+48,butter-midtown-new-york,3.5,908,3.34,104,175,162,241,226,26,3.08,5,7,3,3,8,$31 to $50,Contemporary American,Chelsea and Clinton
+49,smith-and-wollensky-new-york,3.5,1282,3.46,137,180,254,374,337,18,3.56,2,3,2,5,6,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+50,orsay-new-york,3.5,253,3.51,25,33,50,77,68,1,4.0,0,0,0,1,0,$31 to $50,French,Upper East Side
+51,nice-matin-new-york,3.5,698,3.42,66,96,150,254,132,4,2.75,0,1,3,0,0,$31 to $50,French,Upper West Side
+52,db-bistro-moderne-new-york-3,3.5,657,3.49,35,85,181,232,124,8,3.5,1,2,0,2,3,$31 to $50,French,Chelsea and Clinton
+53,the-capital-grille-new-york-2,4.0,707,4.07,31,48,78,230,320,6,4.0,1,0,0,2,3,$50 and over,Steakhouse,Chelsea and Clinton
+54,fig-and-olive-meatpacking-new-york-3,3.5,1308,3.68,74,148,267,456,363,7,4.29,0,1,1,0,5,$31 to $50,Mediterranean,Greenwich Village and Soho
+55,barbounia-new-york,3.5,1181,3.67,82,117,248,396,338,11,3.55,1,1,4,1,4,$30 and under,Mediterranean,Lower East Side
+56,kellari-taverna-new-york,3.5,572,3.53,58,77,103,172,162,3,3.67,0,1,0,1,1,$31 to $50,Greek,Chelsea and Clinton
+57,almond-new-york,4.0,979,3.75,45,87,180,419,248,3,3.67,0,1,0,1,1,$31 to $50,Other,Gramercy Park and Murray Hill
+58,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican,Chelsea and Clinton
+59,momofuku-nishi-new-york,4.0,534,3.79,21,57,104,183,169,11,3.64,1,1,2,4,3,$31 to $50,Contemporary American,Chelsea and Clinton
+60,felidia-new-york,4.0,510,3.91,39,50,66,117,238,5,3.2,1,0,2,1,1,$31 to $50,Italian,Gramercy Park and Murray Hill
+61,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican,Lower East Side
+62,taboon-new-york,4.0,602,4.03,37,39,61,198,267,4,3.75,1,0,0,1,2,$50 and over,Other,Chelsea and Clinton
+63,bocca-di-bacco-new-york-5,3.5,239,3.64,27,22,40,72,78,1,4.0,0,0,0,1,0,$30 and under,Italian,Chelsea and Clinton
+64,rotisserie-georgette-new-york,4.0,192,3.85,17,14,29,52,80,3,3.33,1,0,0,1,1,$30 and under,French,Gramercy Park and Murray Hill
+65,the-national-bar-and-dining-rooms-new-york-2,3.0,616,2.92,115,131,138,150,82,2,2.0,1,0,1,0,0,$30 and under,Contemporary American,Gramercy Park and Murray Hill
+66,the-wayfarer-new-york,3.5,340,3.57,40,38,57,98,107,2,3.5,0,1,0,0,1,$31 to $50,American,Chelsea and Clinton
+67,the-metropolitan-museum-of-art-new-york-3,4.5,2613,4.74,40,24,75,298,2176,16,4.69,0,0,1,3,12,$50 and over,Contemporary American,Upper East Side
+68,il-mulino-new-york-downtown-new-york-2,4.0,517,4.1,35,42,51,98,291,1,3.0,0,0,1,0,0,$50 and over,Italian,Upper East Side
+69,molyvos-new-york,4.0,471,3.76,27,45,89,163,147,2,4.0,0,0,0,2,0,$31 to $50,Greek,Chelsea and Clinton
+70,danji-new-york,4.0,944,3.89,42,66,151,384,301,12,4.08,1,0,2,3,6,$31 to $50,Japanese & Koren,Chelsea and Clinton
+71,tommy-bahama-restaurant-bar-store-new-york-new-york,4.0,548,4.07,15,34,58,230,211,7,4.43,0,0,1,2,4,$30 and under,American,Other
+72,marseille-new-york,4.0,831,3.82,34,58,162,347,230,7,4.0,0,0,2,3,2,$31 to $50,French,Chelsea and Clinton
+73,sarabeths-east-new-york-2,3.5,614,3.5,53,70,130,238,123,2,4.0,0,0,1,0,1,$30 and under,American,Upper East Side
+74,the-capital-grille-new-york-2,4.0,707,4.07,31,48,78,230,320,6,4.0,1,0,0,2,3,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+75,hunt-and-fish-club-new-york-2,4.0,448,3.82,39,47,63,104,195,19,4.0,2,1,2,4,10,$50 and over,Steakhouse,Chelsea and Clinton
+76,ammos-estiatorio-new-york-4,3.0,246,3.08,47,47,49,46,57,4,3.0,0,1,2,1,0,$31 to $50,Seafood,Gramercy Park and Murray Hill
+77,tbar-new-york-2,4.0,179,3.9,15,10,28,51,75,3,4.0,0,0,1,1,1,$31 to $50,Steakhouse,Upper East Side
+78,bocca-di-bacco-hells-kitchen-new-york,3.5,617,3.71,50,49,110,229,179,5,4.2,0,0,2,0,3,$30 and under,Italian,Chelsea and Clinton
+79,the-clocktower-new-york,4.0,338,4.01,12,32,43,105,146,12,3.58,1,2,2,3,4,$50 and over,Other Europe,Gramercy Park and Murray Hill
+80,masseria-dei-vini-new-york,4.0,402,4.18,28,20,30,99,225,5,4.6,0,0,0,2,3,$31 to $50,Italian,Chelsea and Clinton
+81,lexington-brass-new-york,3.5,798,3.48,90,103,132,280,193,8,3.88,1,0,1,3,3,$31 to $50,American,Gramercy Park and Murray Hill
+82,serra-at-la-birreria-new-york,3.0,1212,3.03,202,223,278,360,149,14,3.07,3,3,2,2,4,$30 and under,Italian,Gramercy Park and Murray Hill
+83,gaonnuri-new-york-3,3.5,748,3.7,57,66,134,278,213,15,3.8,2,1,0,7,5,$31 to $50,Japanese & Koren,Chelsea and Clinton
+84,obao-new-york-3,4.0,2144,3.76,181,167,323,782,691,35,3.8,4,1,6,11,13,$31 to $50,Southeast Asian,Chelsea and Clinton
+85,remi-new-york-2,3.5,300,3.7,24,29,47,112,88,1,1.0,1,0,0,0,0,$31 to $50,Italian,Chelsea and Clinton
+86,glass-house-tavern-new-york,3.5,317,3.54,20,41,68,124,64,4,3.25,0,1,1,2,0,$31 to $50,Contemporary American,Chelsea and Clinton
+87,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican,Gramercy Park and Murray Hill
+88,stella-34-trattoria-new-york,3.5,634,3.69,57,53,100,243,181,6,3.33,1,0,2,2,1,$30 and under,Italian,Chelsea and Clinton
+89,mr-chow-new-york,3.0,328,3.01,73,52,65,74,64,3,2.0,2,0,0,1,0,$50 and over,Chinese,Gramercy Park and Murray Hill
+90,casa-lever-new-york,4.0,198,3.77,11,18,33,80,56,4,4.5,0,0,1,0,3,$50 and over,Italian,Gramercy Park and Murray Hill
+91,jams-new-york-3,3.5,264,3.5,31,31,57,65,80,4,3.25,1,0,1,1,1,$30 and under,American,Chelsea and Clinton
+92,ousia-new-york,4.0,189,4.16,11,11,16,49,102,5,4.2,0,1,0,1,3,$31 to $50,Mediterranean,Chelsea and Clinton
+93,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican,Gramercy Park and Murray Hill
+94,the-red-cat-new-york,4.0,678,4.03,16,32,95,311,224,1,3.0,0,0,1,0,0,$31 to $50,American,Chelsea and Clinton
+95,ruths-chris-steak-house-new-york-5,4.0,860,3.81,72,86,101,274,327,5,2.4,2,1,1,0,1,$31 to $50,Steakhouse,Chelsea and Clinton
+96,the-seafire-grill-new-york-4,4.5,1058,4.4,25,44,82,236,671,21,4.57,1,0,1,3,16,$31 to $50,Seafood,Gramercy Park and Murray Hill
+97,blue-water-grill-new-york,4.0,1449,3.75,69,140,273,570,397,3,3.67,0,0,1,2,0,$31 to $50,Seafood,Lower East Side
+98,vaucluse-new-york,4.0,226,3.91,15,20,36,54,101,2,4.5,0,0,0,1,1,$31 to $50,French,Upper East Side
+99,legasea-seafood-brasserie-new-york-2,4.0,228,4.0,15,21,25,56,111,7,4.43,0,1,0,1,5,$50 and over,Seafood,Chelsea and Clinton
+100,stk-midtown-new-york,3.5,844,3.51,101,92,158,261,232,20,3.1,4,2,5,6,3,$31 to $50,Steakhouse,Greenwich Village and Soho
+101,esca-new-york,3.0,686,3.21,118,125,108,165,170,3,3.67,0,1,0,1,1,$30 and under,Italian,Chelsea and Clinton
+102,the-leopard-at-des-artistes-new-york,4.0,205,3.84,12,21,31,64,77,1,5.0,0,0,0,0,1,$50 and over,Italian,Upper West Side
+103,21-club-new-york,3.5,585,3.57,61,73,102,171,178,10,3.8,0,2,1,4,3,$50 and over,American,Chelsea and Clinton
+104,benoit-new-york,3.5,423,3.52,40,54,81,140,108,4,3.25,0,2,0,1,1,$31 to $50,French,Chelsea and Clinton
+105,dadong-new-york-new-york,3.0,498,2.97,152,72,59,70,145,26,2.81,9,4,3,3,7,$31 to $50,Chinese,Chelsea and Clinton
+106,lincoln-square-steak-new-york,4.5,760,4.37,39,41,58,86,536,5,3.2,2,0,0,1,2,$50 and over,Steakhouse,Upper West Side
+107,club-a-steakhouse-new-york,4.5,2546,4.39,80,84,236,514,1632,15,4.2,1,2,0,2,10,$31 to $50,Steakhouse,Gramercy Park and Murray Hill
+108,anassa-taverna-new-york,3.5,276,3.47,36,32,46,91,71,1,5.0,0,0,0,0,1,$31 to $50,Greek,Gramercy Park and Murray Hill
+109,cafe-d-alsace-new-york,4.0,1128,3.91,45,81,164,481,357,14,4.07,1,2,0,3,8,$31 to $50,French,Upper East Side
+110,burke-and-wills-new-york,4.0,391,4.2,13,21,34,130,193,5,4.4,0,0,0,3,2,$31 to $50,Other,Upper West Side
+111,boucherie-west-village-new-york-3,4.5,1015,4.43,40,44,55,175,701,47,4.26,2,4,3,9,29,$31 to $50,French,Lower East Side
+112,natsumi-new-york-3,4.0,782,3.82,48,75,120,268,271,5,4.4,0,0,0,3,2,$31 to $50,Japanese & Koren,Chelsea and Clinton
+113,armani-ristorante-new-york,4.0,208,3.81,21,15,27,65,80,5,3.6,0,0,3,1,1,$31 to $50,Italian,Gramercy Park and Murray Hill
+114,brasserie-ruhlmann-new-york,3.0,251,3.21,44,28,54,81,44,2,3.5,0,1,0,0,1,$31 to $50,French,Chelsea and Clinton
+115,docks-oyster-bar-and-seafood-grill-new-york,3.5,572,3.31,65,95,126,167,119,8,3.25,1,2,1,2,2,$31 to $50,Seafood,Gramercy Park and Murray Hill
+116,chez-josephine-new-york,4.0,451,3.76,36,47,68,140,160,6,3.5,2,0,0,1,3,$31 to $50,French,Chelsea and Clinton
+117,brasserie-8-1-2-new-york-2,3.5,421,3.65,24,46,89,157,105,5,4.0,0,1,0,2,2,$31 to $50,French,Chelsea and Clinton
+118,churrascaria-plataforma-new-york-3,4.0,1287,4.09,57,72,166,396,596,23,4.0,2,2,1,7,11,$50 and over,Steakhouse,Chelsea and Clinton
+119,riverpark-new-york,4.0,751,4.0,40,40,98,277,296,7,4.57,0,0,0,3,4,$31 to $50,American,Gramercy Park and Murray Hill
+120,casa-nonna-new-york-2,4.0,490,3.94,21,48,70,153,198,7,3.57,0,2,0,4,1,$31 to $50,Italian,Gramercy Park and Murray Hill
+121,farmer-and-the-fish-gramercy-new-york,3.5,265,3.52,40,28,47,55,95,11,3.82,1,1,1,4,4,$30 and under,Other,Lower East Side
+122,the-sea-grill-new-york,4.0,343,3.76,20,32,65,118,108,10,4.1,0,1,1,4,4,$31 to $50,Seafood,Chelsea and Clinton
+123,bar-italia-astoria-4,4.0,399,4.04,25,35,34,111,194,2,4.5,0,0,0,1,1,$31 to $50,Italian,Upper East Side
+124,strip-house-new-york-13,4.0,942,3.96,58,68,124,291,401,3,3.67,1,0,0,0,2,$50 and over,Steakhouse,Chelsea and Clinton
+125,maiella-long-island-city,4.0,743,4.22,43,50,69,120,461,25,3.92,0,5,4,4,12,$31 to $50,Italian,Other
+126,storico-new-york,4.0,196,3.8,13,18,30,69,66,2,5.0,0,0,0,0,2,$31 to $50,Italian,Upper West Side
+127,naples-45-ristorante-e-pizzeria-new-york,3.0,347,3.24,27,54,109,122,35,3,4.33,0,0,0,2,1,$30 and under,Italian,Other
+128,la-sirena-ristorante-new-york-3,3.5,334,3.46,28,57,74,84,91,10,3.8,0,1,2,5,2,$31 to $50,Italian,Chelsea and Clinton
+129,benjamin-prime-new-york-2,4.5,214,4.48,9,3,21,25,156,9,4.11,1,0,2,0,6,$50 and over,American,Gramercy Park and Murray Hill
+130,david-burke-tavern-new-york,4.0,150,3.84,20,14,13,26,77,7,4.57,0,0,0,3,4,$31 to $50,American,Upper East Side
+131,michaels-new-york-10,3.5,194,3.34,38,26,24,45,61,2,3.0,1,0,0,0,1,$31 to $50,American,Chelsea and Clinton
+132,le-coq-rico-new-york,4.0,303,3.87,21,27,47,84,124,8,4.0,0,0,2,4,2,$31 to $50,French,Lower East Side
+133,daniel-new-york-4,4.5,1504,4.52,20,63,97,261,1063,6,4.83,0,0,0,1,5,$31 to $50,French,Upper East Side
+134,barbetta-new-york,3.5,215,3.31,42,30,30,46,67,1,2.0,0,1,0,0,0,$31 to $50,Italian,Chelsea and Clinton
+135,pera-mediterranean-brasserie-new-york,3.5,384,3.44,36,49,89,131,79,4,2.75,1,1,1,0,1,$31 to $50,Mediterranean,Gramercy Park and Murray Hill
+136,the-whitby-bar-and-restaurant-new-york,3.5,58,3.69,5,7,11,13,22,3,3.67,0,0,1,2,0,$31 to $50,American,Chelsea and Clinton
+137,fig-and-olive-uptown-new-york-3,3.5,394,3.48,29,54,88,143,80,2,4.5,0,0,0,1,1,$31 to $50,Mediterranean,Upper East Side
+138,monkey-bar-new-york,3.5,267,3.47,25,35,53,97,57,4,2.5,2,0,1,0,1,$50 and over,American,Gramercy Park and Murray Hill
+139,rock-center-cafe-new-york,3.0,465,2.92,103,71,116,109,66,10,3.3,3,0,1,3,3,$31 to $50,Contemporary American,Chelsea and Clinton
+140,obicà-mozzarella-bar-pizza-e-cucina-new-york-6,4.0,398,3.81,34,35,51,130,148,7,4.0,1,0,0,3,3,$31 to $50,Italian,Gramercy Park and Murray Hill
+141,etcetera-etcetera-new-york,4.0,406,3.97,17,30,63,136,160,0,,0,0,0,0,0,$31 to $50,Italian,Chelsea and Clinton
+142,cafe-centro-new-york-8,3.5,149,3.47,7,24,40,48,30,0,,0,0,0,0,0,$31 to $50,French,Other
+143,periyali-new-york,4.0,249,3.84,18,10,42,102,77,1,4.0,0,0,0,1,0,$31 to $50,Greek,Chelsea and Clinton
+144,shun-lee-west-and-cafe-new-york-2,2.5,446,2.74,124,89,76,94,63,4,2.5,2,0,1,0,1,$31 to $50,Chinese,Upper West Side
+145,haru-sushi-new-york-16,3.5,683,3.58,59,72,131,255,166,4,3.25,1,0,1,1,1,$31 to $50,Japanese & Koren,Upper West Side
+146,zengo-new-york,3.5,921,3.58,87,90,178,334,232,8,3.75,0,1,2,3,2,$31 to $50,Asian,Gramercy Park and Murray Hill
+147,manzo-ristorante-new-york-3,3.5,310,3.74,26,31,45,104,104,2,3.5,0,0,1,1,0,$31 to $50,Italian,Gramercy Park and Murray Hill
+148,bagatelle-new-york-new-york-2,3.5,677,3.4,130,78,84,162,223,3,2.33,1,1,0,1,0,$31 to $50,French,Greenwich Village and Soho
+149,trattoria-zero-otto-nove-bronx,4.0,700,4.08,31,51,78,211,329,10,4.3,0,1,1,2,6,$31 to $50,Italian,Gramercy Park and Murray Hill
+150,ortzi-new-york-3,4.0,77,3.91,8,4,8,24,33,4,3.75,1,0,0,1,2,$31 to $50,Spanish,Chelsea and Clinton
+151,american-cut-steakhouse-tribeca-new-york,4.0,536,3.88,40,43,78,156,219,10,3.0,2,2,1,4,1,$31 to $50,Steakhouse,Gramercy Park and Murray Hill
+152,maloney-and-porcelli-new-york,4.0,433,3.79,37,37,59,148,152,1,1.0,1,0,0,0,0,$50 and over,American,Gramercy Park and Murray Hill
+153,royal-35-steakhouse-new-york,4.5,164,4.56,5,5,11,15,128,5,4.2,0,0,1,2,2,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+154,chazz-palminteri-italian-restaurant-new-york-2,4.0,212,3.96,19,17,27,39,110,11,4.18,0,1,2,2,6,$50 and over,Italian,Chelsea and Clinton
+155,bodega-negra-new-york,3.5,595,3.59,77,65,85,167,201,8,3.75,0,1,2,3,2,$50 and over,Mexican,Chelsea and Clinton
+156,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican,Gramercy Park and Murray Hill
+157,barraca-new-york,3.5,644,3.68,62,75,88,199,220,8,2.12,3,3,1,0,1,$31 to $50,Spanish,Greenwich Village and Soho
+158,gabriels-bar-and-restaurant-new-york,4.0,151,4.0,5,17,15,50,64,1,2.0,0,1,0,0,0,$50 and over,Italian,Upper West Side
+159,the-cecil-steakhouse-new-york,3.5,90,3.51,16,9,11,21,33,3,3.67,1,0,0,0,2,$31 to $50,American,Harlem
+160,dos-caminos-new-york-3,3.0,951,3.18,150,136,211,302,152,9,3.11,2,1,2,2,2,$31 to $50,Mexican,Greenwich Village and Soho
+161,bobby-vans-grill-jamaica,2.5,280,2.52,87,60,59,49,25,3,2.67,1,1,0,0,1,$31 to $50,American,Chelsea and Clinton
+162,untitled-at-the-whitney-new-york-3,4.0,276,4.05,14,18,33,86,125,5,4.0,0,1,0,2,2,$31 to $50,American,Greenwich Village and Soho
+163,bedford-and-co-new-york-20,4.0,211,3.83,10,26,32,64,79,5,4.0,0,1,0,2,2,$31 to $50,Contemporary American,Gramercy Park and Murray Hill
+164,pampano-new-york,4.0,546,3.8,28,54,84,214,166,6,4.33,0,1,0,1,4,$31 to $50,Mexican,Gramercy Park and Murray Hill
+165,cipriani-new-york-2,3.5,99,3.56,15,8,14,31,31,0,,0,0,0,0,0,$31 to $50,Italian,Gramercy Park and Murray Hill
+166,lugo-cucina-new-york-2,3.5,305,3.41,28,44,66,110,57,2,3.0,1,0,0,0,1,$31 to $50,Italian,Chelsea and Clinton
+167,rouge-tomate-chelsea-new-york,4.0,123,3.95,6,12,19,31,55,11,3.36,3,1,0,3,4,$31 to $50,Contemporary American,Chelsea and Clinton
+168,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish,Chelsea and Clinton
+169,bann-restaurant-new-york-4,3.5,599,3.6,48,69,107,225,150,6,4.33,0,1,0,1,4,$31 to $50,Japanese & Koren,Chelsea and Clinton
+170,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish,Gramercy Park and Murray Hill
+171,high-street-on-hudson-new-york,4.0,372,3.78,30,29,61,125,127,9,3.11,1,3,0,4,1,$31 to $50,Contemporary American,Greenwich Village and Soho
+172,hanjan-new-york,4.0,392,3.77,31,32,66,129,134,2,4.0,0,0,1,0,1,$31 to $50,Japanese & Koren,Gramercy Park and Murray Hill
+173,le-colonial-new-york,3.5,260,3.35,29,34,65,82,50,9,1.67,6,1,1,1,0,$31 to $50,Southeast Asian,Gramercy Park and Murray Hill
+174,delmonicos-kitchen-new-york-3,3.5,321,3.49,33,49,63,81,95,0,,0,0,0,0,0,$31 to $50,American,Chelsea and Clinton
+175,mortons-the-steakhouse-new-york-2,4.0,476,3.89,28,45,64,151,188,8,4.62,0,0,1,1,6,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+176,teds-montana-grill-new-york-new-york,3.5,352,3.47,26,51,85,112,78,2,5.0,0,0,0,0,2,$31 to $50,American,Chelsea and Clinton
+177,trattoria-italienne-new-york,4.5,113,4.3,5,5,11,22,70,5,5.0,0,0,0,0,5,$30 and under,Italian,Gramercy Park and Murray Hill
+178,felice-64-new-york,3.5,280,3.72,21,28,41,107,83,1,5.0,0,0,0,0,1,$31 to $50,Italian,Upper East Side
+179,shun-lee-palace-new-york,3.0,273,3.03,56,50,47,71,49,3,2.0,1,1,1,0,0,$31 to $50,Chinese,Gramercy Park and Murray Hill
+180,aretskys-patroon-new-york-2,4.0,211,3.99,10,11,33,74,83,1,4.0,0,0,0,1,0,$31 to $50,American,Gramercy Park and Murray Hill
+181,frankie-and-johnnies-steakhouse-new-york-4,3.5,225,3.55,27,35,25,64,74,4,3.5,1,0,1,0,2,$31 to $50,Steakhouse,Chelsea and Clinton
+182,davios-northern-italian-steakhouse-new-york,4.0,267,3.99,19,18,37,65,128,3,4.33,0,0,1,0,2,$31 to $50,Steakhouse,Gramercy Park and Murray Hill
+183,massoni-new-york-2,4.0,209,3.94,11,23,30,48,97,7,3.86,1,0,1,2,3,$31 to $50,Italian,Gramercy Park and Murray Hill
+184,tarallucci-e-vino-upper-west-side-new-york,3.5,111,3.67,10,9,25,31,36,0,,0,0,0,0,0,$31 to $50,Italian,Upper West Side
+185,clement-new-york-13,4.0,133,4.14,4,8,19,37,65,2,4.5,0,0,0,1,1,$31 to $50,American,Chelsea and Clinton
+186,mifune-new-york-new-york-2,4.0,132,3.83,12,9,19,41,51,19,4.0,0,1,5,6,7,$31 to $50,Japanese & Koren,Gramercy Park and Murray Hill
+187,sutton-inn-new-york,4.0,110,4.24,8,7,6,19,70,2,5.0,0,0,0,0,2,$30 and under,American,Gramercy Park and Murray Hill
+188,the-house-new-york,3.5,374,3.61,34,40,62,139,99,1,5.0,0,0,0,0,1,$31 to $50,American,Lower East Side
+189,cleo-new-york-2,4.0,71,4.23,4,4,6,15,42,4,3.75,0,1,0,2,1,$31 to $50,Mediterranean,Gramercy Park and Murray Hill
+190,naoki-takahashi-new-york,4.0,116,4.12,6,7,16,25,62,14,4.21,0,2,1,3,8,$31 to $50,Japanese & Koren,Chelsea and Clinton
+191,junoon-new-york,3.5,1356,3.64,141,157,216,378,464,13,3.85,2,0,2,3,6,$50 and over,Indian,Gramercy Park and Murray Hill
+192,brasserie-cognac-new-york-2,3.5,346,3.35,35,54,75,120,62,1,4.0,0,0,0,1,0,$31 to $50,French,Chelsea and Clinton
+193,scampi-new-york-2,4.0,162,4.15,7,11,17,43,84,5,3.6,1,0,0,3,1,$30 and under,Italian,Chelsea and Clinton
+194,society-cafe-new-york-2,4.0,131,4.11,4,13,13,36,65,10,3.6,2,0,2,2,4,$31 to $50,American,Chelsea and Clinton
+195,suzuki-new-york-3,4.0,110,3.86,11,11,13,22,53,4,2.75,1,1,1,0,1,$50 and over,Japanese & Koren,Chelsea and Clinton
+196,inakaya-new-york,3.5,511,3.66,46,48,94,170,153,6,4.67,0,0,0,2,4,$31 to $50,Japanese & Koren,Chelsea and Clinton
+197,rossinis-new-york,4.0,177,3.85,17,17,18,48,77,5,4.8,0,0,0,1,4,$31 to $50,Italian,Gramercy Park and Murray Hill
+198,charlie-palmer-steak-new-york-2,4.0,192,3.97,12,16,25,51,88,6,4.33,0,0,1,2,3,$31 to $50,Steakhouse,Chelsea and Clinton
+199,bocca-restaurant-and-bar-new-york,3.5,347,3.73,31,22,66,119,109,4,3.75,0,0,2,1,1,$30 and under,Italian,Lower East Side
+200,nyy-steak-new-york-2,4.0,261,4.15,11,14,35,66,135,5,4.6,0,0,0,2,3,$31 to $50,Steakhouse,Chelsea and Clinton
+201,irvington-new-york-2,3.5,188,3.65,17,19,39,50,63,2,4.0,0,0,1,0,1,$30 and under,Contemporary American,Lower East Side
+202,charlie-palmer-at-the-knick-new-york-2,3.0,61,3.11,11,9,15,14,12,5,3.4,0,1,2,1,1,$31 to $50,Contemporary American,Chelsea and Clinton
+203,nick-and-stefs-steakhouse-new-york,3.5,204,3.45,21,26,48,58,51,0,,0,0,0,0,0,$31 to $50,Steakhouse,Chelsea and Clinton
+204,altesi-ristorante-new-york,4.0,51,3.82,8,2,5,12,24,1,1.0,1,0,0,0,0,$31 to $50,Italian,Upper East Side
+205,giorgios-of-gramercy-new-york,4.0,719,4.06,28,39,94,260,298,2,4.0,0,0,0,2,0,$31 to $50,Contemporary American,Gramercy Park and Murray Hill
+206,perrine-new-york-2,4.0,56,3.88,4,4,11,13,24,6,2.67,1,2,2,0,1,$31 to $50,French,Upper East Side
+207,la-fonda-del-sol-new-york,3.5,301,3.43,16,49,82,98,56,3,4.0,0,0,0,3,0,$31 to $50,Spanish,Chelsea and Clinton
+208,morrell-wine-bar-and-cafe-new-york,3.5,223,3.56,22,27,39,74,61,1,4.0,0,0,0,1,0,$31 to $50,American,Chelsea and Clinton
+209,bobby-vans-grill-jamaica,2.5,280,2.52,87,60,59,49,25,3,2.67,1,1,0,0,1,$50 and over,American,Chelsea and Clinton
+210,kingside-new-york,3.5,226,3.4,26,31,52,61,56,3,3.67,1,0,0,0,2,$31 to $50,American,Chelsea and Clinton
+211,i-trulli-new-york,3.5,339,3.61,29,39,64,109,98,3,3.0,0,1,1,1,0,$31 to $50,Italian,Gramercy Park and Murray Hill
+212,haru-sushi-new-york-18,3.5,73,3.27,14,9,12,19,19,0,,0,0,0,0,0,$31 to $50,Japanese & Koren,Chelsea and Clinton
+213,club-a-steakhouse-new-york,4.5,2546,4.39,80,84,236,514,1632,15,4.2,1,2,0,2,10,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+214,il-postino-new-york-2,3.5,107,3.65,10,14,14,34,35,5,2.2,1,3,0,1,0,$50 and over,Italian,Gramercy Park and Murray Hill
+215,nippon-new-york,3.5,156,3.74,11,19,22,51,53,2,5.0,0,0,0,0,2,$31 to $50,Japanese & Koren,Gramercy Park and Murray Hill
+216,green-fig-new-york-2,3.5,119,3.38,29,11,13,18,48,2,2.5,1,0,0,1,0,$31 to $50,Mediterranean,Chelsea and Clinton
+217,tender-steak-and-sushi-new-york-2,4.0,280,3.86,25,22,42,70,121,2,3.0,1,0,0,0,1,$31 to $50,American,Chelsea and Clinton
+218,tarallucci-e-vino-union-square-new-york-5,3.5,353,3.64,25,42,61,133,92,5,4.0,0,1,0,2,2,$31 to $50,Italian,Lower East Side
+219,bobby-vans-steakhouse-new-york-3,3.5,373,3.45,41,49,78,110,95,3,4.0,0,1,0,0,2,$31 to $50,Steakhouse,Other
+220,astor-court-new-york,3.0,68,3.24,14,9,9,19,17,1,4.0,0,0,0,1,0,$31 to $50,Other,Gramercy Park and Murray Hill
+221,sofrito-new-york-new-york,2.5,491,2.5,191,80,69,87,64,12,2.33,3,4,4,0,1,$30 and under,Spanish,Inwood and Washington Heights
+222,tarallucci-e-vino-nomad-new-york,4.0,110,3.97,8,8,18,21,55,2,3.5,0,0,1,1,0,$31 to $50,Italian,Gramercy Park and Murray Hill
+223,frankie-and-johnnies-steakhouse-new-york-4,3.5,225,3.55,27,35,25,64,74,4,3.5,1,0,1,0,2,$31 to $50,Steakhouse,Chelsea and Clinton
+224,the-shakespeare-new-york,4.0,341,3.83,22,31,42,134,112,3,4.67,0,0,0,1,2,$31 to $50,Other Europe,Gramercy Park and Murray Hill
+225,gaby-brasserie-française-new-york,3.0,95,3.16,13,18,17,35,12,2,1.0,2,0,0,0,0,$31 to $50,French,Chelsea and Clinton
+226,southgate-bar-and-restaurant-new-york-4,3.5,185,3.28,28,24,36,63,34,1,5.0,0,0,0,0,1,$31 to $50,American,Chelsea and Clinton
+227,empire-steak-house-new-york-9,3.5,246,3.27,46,36,41,52,71,10,3.9,1,1,2,0,6,$50 and over,Steakhouse,Chelsea and Clinton
+228,state-grill-and-bar-new-york,4.0,123,4.21,7,6,9,33,68,1,4.0,0,0,0,1,0,$31 to $50,American,Other
+229,the-lambs-club-new-york,3.0,554,3.22,96,90,92,149,127,4,3.5,1,0,1,0,2,$50 and over,Contemporary American,Chelsea and Clinton
+230,bocca-di-bacco-new-york-4,3.5,169,3.39,26,24,25,46,48,1,3.0,0,0,1,0,0,$30 and under,Italian,Chelsea and Clinton
+231,amma-new-york,4.0,475,3.76,52,31,62,164,166,1,5.0,0,0,0,0,1,$31 to $50,Indian,Gramercy Park and Murray Hill
+232,ben-and-jacks-steakhouse-new-york-5,4.0,244,4.13,5,18,30,79,112,13,4.08,1,1,1,3,7,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+233,jue-lan-club-new-york,3.0,315,3.17,69,50,36,79,81,9,3.56,1,1,2,2,3,$31 to $50,Chinese,Chelsea and Clinton
+234,empire-steak-house-new-york-11,4.0,232,3.91,25,17,27,49,114,17,3.71,2,1,4,3,7,$50 and over,Steakhouse,Gramercy Park and Murray Hill
+235,bread-and-tulips-new-york,4.0,250,3.94,9,12,50,92,87,4,4.25,0,0,0,3,1,$30 and under,Italian,Gramercy Park and Murray Hill
+236,tudor-city-steakhouse-new-york,3.5,67,3.46,19,4,5,5,34,2,5.0,0,0,0,0,2,$31 to $50,Steakhouse,Gramercy Park and Murray Hill
+237,triomphe-new-york-2,3.5,132,3.6,10,17,24,46,35,0,,0,0,0,0,0,$31 to $50,French,Chelsea and Clinton
+238,blenheim-new-york-3,3.5,214,3.72,27,20,27,52,88,1,2.0,0,1,0,0,0,$31 to $50,Contemporary American,Greenwich Village and Soho
+239,darbar-fine-indian-cuisine-new-york-2,4.0,520,4.02,28,40,60,158,234,7,4.71,0,0,1,0,6,$30 and under,Indian,Gramercy Park and Murray Hill
+240,zio-ristorante-new-york,4.0,284,4.15,13,19,30,72,150,6,4.33,0,0,2,0,4,$31 to $50,Italian,Chelsea and Clinton
+241,meet-the-meat-astoria,4.5,297,4.47,9,11,14,61,202,17,4.24,0,1,4,2,10,$31 to $50,Steakhouse,Queens
+242,the-morgan-dining-room-new-york,4.0,23,3.83,0,3,3,12,5,0,,0,0,0,0,0,$30 and under,American,Gramercy Park and Murray Hill
+243,montebello-ristorante-italiano-new-york,3.5,83,3.33,11,10,17,31,14,0,,0,0,0,0,0,$31 to $50,Italian,Gramercy Park and Murray Hill
+244,darbar-grill-new-york,4.0,498,3.87,34,34,72,180,178,4,3.75,0,0,2,1,1,$30 and under,Indian,Gramercy Park and Murray Hill
+245,the-gin-parlour-new-york,3.5,30,3.5,5,2,7,5,11,2,3.0,0,1,0,1,0,$30 and under,Contemporary American,Gramercy Park and Murray Hill
+246,michael-jordans-the-steak-house-nyc-new-york-2,3.0,405,2.84,83,91,92,87,52,1,5.0,0,0,0,0,1,$31 to $50,Steakhouse,Gramercy Park and Murray Hill
+247,beauty-and-essex-new-york,4.0,3249,3.93,214,201,456,1114,1264,22,4.23,1,0,4,5,12,$31 to $50,Other,Lower East Side
+248,the-mercer-kitchen-new-york-6,3.5,1505,3.31,170,212,370,492,261,7,4.29,0,0,2,1,4,$30 and under,American,Greenwich Village and Soho
+249,the-dutch-new-york,3.5,1103,3.54,90,150,210,381,272,3,3.33,1,0,0,1,1,$31 to $50,American,Other
+250,lafayette-new-york-2,3.5,837,3.56,68,103,169,290,207,5,2.6,2,0,1,2,0,$31 to $50,French,Lower East Side
+251,vandal-new-york,3.5,1308,3.55,191,114,207,380,416,21,3.95,2,0,4,6,9,$50 and over,Other,Lower East Side
+252,gotham-bar-and-grill-new-york,4.5,1515,4.3,37,60,163,406,849,10,3.8,1,1,0,5,3,$50 and over,Contemporary American,Lower East Side
+253,il-buco-alimentari-and-vineria-new-york-2,3.5,512,3.47,54,74,94,157,133,3,3.0,1,0,0,2,0,$31 to $50,Italian,Greenwich Village and Soho
+254,bar-primi-new-york-3,3.5,545,3.69,30,54,117,198,146,5,4.2,0,0,2,0,3,$30 and under,Italian,Lower East Side
+255,lure-fishbar-new-york-2,4.0,1554,3.86,73,120,256,613,492,11,4.73,0,0,1,1,9,$31 to $50,Seafood,Greenwich Village and Soho
+256,nix-new-york,4.0,461,4.04,15,35,76,126,209,13,3.62,1,3,2,1,6,$31 to $50,Other,Lower East Side
+257,lupa-new-york,4.0,1447,4.04,48,100,189,523,587,6,4.17,0,0,0,5,1,$31 to $50,Italian,Greenwich Village and Soho
+258,claudette-new-york,4.0,338,3.97,15,21,54,118,130,3,3.67,0,1,0,1,1,$30 and under,French,Chelsea and Clinton
+259,empellón-taqueria-new-york,3.5,661,3.67,44,77,125,222,193,2,3.0,1,0,0,0,1,$31 to $50,Mexican,Greenwich Village and Soho
+260,perry-st-new-york,4.0,908,3.96,32,74,140,314,348,7,3.29,1,1,1,3,1,$31 to $50,Contemporary American,Greenwich Village and Soho
+261,boucherie-west-village-new-york-3,4.5,1015,4.43,40,44,55,175,701,47,4.26,2,4,3,9,29,$31 to $50,French,Greenwich Village and Soho
+262,indochine-new-york,3.5,352,3.48,40,28,83,124,77,6,3.5,0,1,2,2,1,$50 and over,Southeast Asian,Lower East Side
+263,el-vez-new-york,3.5,583,3.58,41,71,119,211,141,7,4.57,0,0,0,3,4,$30 and under,Mexican,Other
+264,public-kitchen-new-york-2,3.5,165,3.64,19,23,22,35,66,5,3.6,0,1,1,2,1,$31 to $50,Other,Lower East Side
+265,tamarind-new-york-4,4.0,832,3.94,60,64,105,244,359,14,3.71,1,2,1,6,4,$31 to $50,Indian,Greenwich Village and Soho
+266,the-stanton-social-new-york,4.0,2770,3.8,162,225,444,1106,833,9,4.11,0,0,1,6,2,$31 to $50,Other,Lower East Side
+267,hearth-new-york,4.0,683,3.81,40,69,119,209,246,7,3.14,0,3,1,2,1,$50 and over,American,Lower East Side
+268,sarabeths-tribeca-new-york,3.5,643,3.37,63,97,148,209,126,7,3.86,0,0,3,2,2,$30 and under,American,Greenwich Village and Soho
+269,leuca-brooklyn,4.0,279,3.95,21,27,30,68,133,6,4.5,0,0,1,1,4,$31 to $50,Italian,Other
+270,sant-ambroeus-new-york-4,3.5,130,3.55,23,8,17,38,44,5,2.8,1,1,1,2,0,$31 to $50,Italian,Greenwich Village and Soho
+271,il-cantinori-new-york,4.0,235,3.76,19,35,22,66,93,1,5.0,0,0,0,0,1,$50 and over,Italian,Lower East Side
+272,mr-chow-new-york,3.0,328,3.01,73,52,65,74,64,3,2.0,2,0,0,1,0,$50 and over,Chinese,Greenwich Village and Soho
+273,narcissa-new-york,3.5,481,3.74,34,46,78,175,148,7,4.14,0,0,2,2,3,$31 to $50,Contemporary American,Lower East Side
+274,il-mulino-new-york-downtown-new-york-2,4.0,517,4.1,35,42,51,98,291,1,3.0,0,0,1,0,0,$50 and over,Italian,Greenwich Village and Soho
+275,sant-ambroeus-new-york,4.0,353,3.93,30,19,49,102,153,2,3.5,0,0,1,1,0,$31 to $50,Italian,Greenwich Village and Soho
+276,pig-and-khao-new-york,4.0,1429,3.95,63,111,203,505,547,28,3.75,5,0,3,9,11,$31 to $50,Southeast Asian,Lower East Side
+277,little-park-new-york,4.0,332,3.83,24,26,54,108,120,4,3.5,0,1,1,1,1,$31 to $50,Contemporary American,Lower Manhattan
+278,neta-new-york,4.0,358,3.85,25,35,55,95,148,10,2.6,3,2,2,2,1,$50 and over,Japanese & Koren,Chelsea and Clinton
+279,tutto-il-giorno-new-york-2,3.5,80,3.72,9,7,15,15,34,0,,0,0,0,0,0,$50 and over,Italian,Greenwich Village and Soho
+280,bobo-new-york,4.0,486,3.76,35,51,76,158,166,5,4.6,0,0,0,2,3,$30 and under,French,Greenwich Village and Soho
+281,rafele-ristorante-new-york,4.5,436,4.25,15,26,42,105,248,2,4.5,0,0,0,1,1,$31 to $50,Italian,Greenwich Village and Soho
+282,essex-new-york,3.5,1876,3.53,159,231,358,719,409,9,3.22,2,2,0,2,3,$30 and under,Other,Lower East Side
+283,tinys-and-the-bar-upstairs-new-york-2,4.0,528,3.84,36,42,65,210,175,9,3.56,2,1,0,2,4,$31 to $50,Contemporary American,Lower East Side
+284,baar-baar-new-york-2,4.0,453,4.22,30,20,40,94,269,27,4.26,0,1,4,9,13,$31 to $50,Indian,Lower East Side
+285,the-musket-room-new-york,4.5,409,4.3,10,27,38,90,244,6,5.0,0,0,0,0,6,$31 to $50,Other,Greenwich Village and Soho
+286,delmonicos-new-york,4.0,968,3.8,53,100,169,315,331,11,4.73,0,0,0,3,8,$50 and over,Steakhouse,Lower Manhattan
+287,root-and-bone-new-york,4.0,1475,3.94,78,98,226,500,573,17,4.12,0,2,2,5,8,$31 to $50,Other,Lower East Side
+288,bâtard-new-york,4.0,350,3.96,19,20,63,101,147,14,3.79,0,1,5,4,4,$50 and over,Other Europe,Greenwich Village and Soho
+289,left-bank-new-york,3.5,276,3.72,15,29,57,92,83,2,3.5,0,0,1,1,0,$31 to $50,American,Greenwich Village and Soho
+290,american-cut-steakhouse-tribeca-new-york,4.0,536,3.88,40,43,78,156,219,10,3.0,2,2,1,4,1,$31 to $50,Steakhouse,Greenwich Village and Soho
+291,khe-yo-new-york,4.0,653,3.97,38,42,85,227,261,5,3.4,0,0,3,2,0,$31 to $50,Southeast Asian,Greenwich Village and Soho
+292,toloache-thompson-new-york-3,3.5,417,3.74,40,31,73,127,146,3,4.33,0,0,1,0,2,$31 to $50,Mexican,Greenwich Village and Soho
+293,nobu-downtown-new-york,3.5,292,3.6,46,24,49,54,119,14,3.64,1,2,3,3,5,$50 and over,Japanese & Koren,Lower Manhattan
+294,feast-new-york,4.0,448,4.12,17,23,56,143,209,1,5.0,0,0,0,0,1,$31 to $50,Contemporary American,Lower East Side
+295,temple-court-new-york,3.5,179,3.66,21,21,27,38,72,13,4.31,0,1,3,0,9,$31 to $50,American,Lower East Side
+296,pera-soho-new-york,3.5,424,3.39,63,65,62,110,124,6,3.17,2,1,0,0,3,$31 to $50,Mediterranean,Greenwich Village and Soho
+297,tribeca-grill-new-york-2,3.5,577,3.5,41,67,153,195,121,0,,0,0,0,0,0,$31 to $50,American,Greenwich Village and Soho
+298,fifty-new-york,4.5,127,4.52,1,7,5,26,88,2,5.0,0,0,0,0,2,$31 to $50,Contemporary American,Greenwich Village and Soho
+299,dos-caminos-new-york-2,3.0,1473,3.2,182,253,358,452,228,11,2.73,5,1,0,2,3,$31 to $50,Mexican,Greenwich Village and Soho
+300,noreetuh-new-york,4.0,393,4.16,4,13,72,133,171,7,3.71,0,2,0,3,2,$31 to $50,American,Lower East Side
+301,el-toro-blanco-new-york,3.5,375,3.39,51,46,73,116,89,3,2.33,1,0,2,0,0,$31 to $50,Mexican,Greenwich Village and Soho
+302,san-carlo-osteria-piemonte-new-york-city,4.5,172,4.45,9,7,8,21,127,4,5.0,0,0,0,0,4,$31 to $50,Italian,Greenwich Village and Soho
+303,the-library-at-the-public-new-york,3.5,159,3.73,12,12,29,60,46,3,3.67,1,0,0,0,2,$30 and under,American,Lower East Side
+304,wolfgang-puck-new-york-4,3.5,68,3.66,5,9,13,18,23,0,,0,0,0,0,0,$31 to $50,Steakhouse,Lower Manhattan
+305,osteria-della-pace-new-york,3.0,65,3.17,15,9,7,18,16,2,2.5,1,0,0,1,0,$31 to $50,Italian,Lower Manhattan
+306,tuome-new-york-2,4.5,412,4.28,6,18,42,136,210,12,4.17,0,0,3,4,5,$31 to $50,Contemporary American,Lower East Side
+307,barano-brooklyn,4.5,213,4.46,4,7,22,33,147,8,4.5,0,1,0,1,6,$30 and under,Italian,Other
+308,buttermilk-channel-brooklyn,4.0,1811,3.95,76,134,254,686,661,21,3.33,5,1,4,4,7,$31 to $50,American,Brooklyn
+309,la-loteria-new-york,4.0,290,4.1,15,19,30,85,141,2,5.0,0,0,0,0,2,$31 to $50,Mexican,Greenwich Village and Soho
+310,il-mulino-prime-new-york,3.5,135,3.41,17,29,18,24,47,1,5.0,0,0,0,0,1,$50 and over,Italian,Greenwich Village and Soho
+311,socarrat-paella-bar-chelsea-new-york-3,4.0,1095,3.76,53,105,180,472,285,10,4.0,1,0,2,2,5,$31 to $50,Spanish,Greenwich Village and Soho
+312,la-sirene-new-york,4.5,1557,4.29,33,65,152,481,826,12,4.25,0,1,1,4,6,$31 to $50,French,Greenwich Village and Soho
+313,fonda-east-village-new-york-2,4.0,707,3.94,39,49,84,275,260,3,5.0,0,0,0,0,3,$31 to $50,Mexican,Lower East Side
+314,kingsley-new-york-2,3.5,139,3.53,17,26,20,18,58,3,4.33,0,0,1,0,2,$31 to $50,Contemporary American,Lower East Side
+315,porsena-new-york,3.5,246,3.53,19,43,43,71,70,4,4.75,0,0,0,1,3,$30 and under,Italian,Lower East Side
+316,the-palm-tribeca-new-york-2,3.5,260,3.52,17,39,57,86,61,4,3.75,1,0,0,1,2,$50 and over,Steakhouse,Other
+317,nickel-and-diner-new-york-2,4.0,370,3.8,29,41,56,92,152,9,4.22,0,1,0,4,4,$31 to $50,American,Greenwich Village and Soho
+318,david-burke-kitchen-new-york,4.0,1121,3.75,57,117,212,397,338,14,3.79,1,1,3,4,5,$31 to $50,American,Greenwich Village and Soho
+319,il-cortile-restaurant-new-york,3.5,456,3.71,49,48,59,131,169,6,4.67,0,0,1,0,5,$31 to $50,Italian,Greenwich Village and Soho
+320,felice-new-york-6,4.0,310,4.11,14,19,29,106,142,7,4.14,0,1,0,3,3,$31 to $50,Italian,Lower Manhattan
+321,cipriani-new-york-2,3.5,99,3.56,15,8,14,31,31,0,,0,0,0,0,0,$31 to $50,Italian,Other
+322,rosa-mexicano-new-york-3,3.5,1410,3.55,87,184,330,491,318,13,3.08,3,1,3,4,2,$31 to $50,Mexican,Lower Manhattan
+323,north-square-new-york,4.0,286,3.83,13,22,48,122,81,0,,0,0,0,0,0,$31 to $50,American,Chelsea and Clinton
+324,edi-and-the-wolf-new-york,4.0,407,3.91,18,38,56,144,151,0,,0,0,0,0,0,$30 and under,Other Europe,Lower East Side
+325,gran-morsi-new-york,4.5,306,4.32,11,14,23,77,181,5,4.6,0,0,1,0,4,$31 to $50,Italian,Lower Manhattan
+326,bistrot-leo-new-york,4.5,29,4.24,1,2,2,8,16,4,3.5,1,0,0,2,1,$31 to $50,French,Greenwich Village and Soho
+327,reserve-cut-new-york,4.0,246,3.99,22,25,22,41,136,2,4.0,0,0,1,0,1,$50 and over,Other,Lower Manhattan
+328,rice-and-gold-new-york,3.5,269,3.71,28,25,47,66,103,12,4.0,0,1,3,3,5,$31 to $50,Asian,Greenwich Village and Soho
+329,thalassa-restaurant-new-york,4.0,379,4.08,26,27,33,97,196,7,5.0,0,0,0,0,7,$31 to $50,Seafood,Greenwich Village and Soho
+330,strip-house-speakeasy-new-york,4.0,43,3.81,4,4,4,15,16,1,5.0,0,0,0,0,1,$50 and over,Steakhouse,Lower East Side
+331,greenwich-steakhouse-new-york,4.5,207,4.46,16,9,5,11,166,17,4.41,0,3,0,1,13,$50 and over,Steakhouse,Chelsea and Clinton
+332,schilling-new-york,4.0,132,4.2,6,6,11,42,67,3,4.0,0,0,1,1,1,$30 and under,Other Europe,Upper East Side
+333,mortons-the-steakhouse-new-york-2,4.0,476,3.89,28,45,64,151,188,8,4.62,0,0,1,1,6,$50 and over,Steakhouse,Lower Manhattan
+334,markjoseph-steakhouse-new-york-2,4.0,376,3.98,18,22,65,117,154,4,4.5,0,0,0,2,2,$50 and over,Steakhouse,Lower Manhattan
+335,the-tuck-room-new-york,4.0,212,3.89,26,14,23,43,106,10,4.0,1,0,3,0,6,$30 and under,Other,Lower Manhattan
+336,talde-brooklyn,3.5,1036,3.7,77,116,187,317,339,8,3.38,3,0,0,1,4,$30 and under,Asian,Brooklyn
+337,yellow-magnolia-café-brooklyn,4.0,54,3.83,1,10,10,9,24,1,2.0,0,1,0,0,0,$30 and under,American,Brooklyn
+338,benchmark-brooklyn,3.5,474,3.47,65,58,77,139,135,4,3.5,0,2,0,0,2,$31 to $50,Contemporary American,Brooklyn
+339,altesi-downtown-new-york,4.0,40,4.08,1,4,5,11,19,2,3.5,0,1,0,0,1,$31 to $50,Italian,Greenwich Village and Soho
+340,the-williamsburg-hotel-brooklyn-2,3.0,153,2.75,63,19,8,20,43,7,2.14,4,1,0,1,1,$30 and under,Contemporary American,Other
+341,atrio-wine-bar-and-restaurant-new-york,3.5,82,3.46,11,7,17,27,20,0,,0,0,0,0,0,$31 to $50,Contemporary American,Other
+342,bobby-vans-steakhouse-new-york-3,3.5,373,3.45,41,49,78,110,95,3,4.0,0,1,0,0,2,$31 to $50,Steakhouse,Lower Manhattan
+343,brasserie-séoul-brooklyn-8,3.5,68,3.31,10,16,8,11,23,7,3.14,1,2,1,1,2,$30 and under,French,Brooklyn
+344,greenhouse-cafe-brooklyn,3.5,119,3.44,18,16,19,28,38,3,3.67,0,1,0,1,1,$30 and under,Other,Other
+345,lorenzos-restaurant-bar-and-cabaret-staten-island,3.0,74,2.96,18,14,12,13,17,0,,0,0,0,0,0,$31 to $50,Italian,Staten Island
